@@ -138,7 +138,7 @@
       "EEC Channel A - Igniter 1, EEC Channel B - Igniter 2, EEC Channel A - Igniter 2, EEC Channel B - Igniter 1.",
       "EEC active channel randomly select the igniters."
     ],
-    "Level": 3
+    "Level": 3,
     "CorrectAnswer": 1
   },
   {

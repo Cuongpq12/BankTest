@@ -317,7 +317,7 @@
     "QuestionString": "What data is stored in DSU (Data Storage Unit)?",
     "Answers": [
       "The Permanent Magnet Alternator (PMA) always",
-      "The Permanent Magnet Alternator (PMA) when N2 > 12%",
+      "The Permanent Magnet Alternator (PMA) when N2 > 12%"
     ],
     "Level": 1,
     "CorrectAnswer": 2
