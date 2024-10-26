@@ -1,0 +1,440 @@
+{
+  "ModuleName": "ATA 36 - A320 NEO",
+  "CatInfos": [
+    {
+      "CatName": "A",
+      "QuestionRequired": [
+        37,
+        0,
+        0
+      ],
+      "TimeLimit": 10
+    },
+    {
+      "CatName": "B1",
+      "QuestionRequired": [
+        8,
+        0,
+        0
+      ],
+      "TimeLimit": 45
+    },
+    {
+      "CatName": "B2",
+      "QuestionRequired": [
+        8,
+        0,
+        0
+      ],
+      "TimeLimit": 45
+    }
+  ],
+  
+  "Questions": [
+    {
+      "Index": 1,
+      "QuestionString": "What is the purpose of IP/HP switching?",
+      "Answers": [
+        "To regulate the output pressure depending on the Fan Air Valve position",
+        "To keep sufficient bleed pressure at low engine speed",
+        "To regulate the output temperature depending on the configuration of users"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 2,
+      "QuestionString": "Each BMC can control the PRV, the HPV and the:",
+      "Answers": [
+        "Over Pressure Valve (OPV)",
+        "Intermediate Pressure Check Valve (IPCV)",
+        "Fan Air Valve (FAV)"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 3,
+      "QuestionString": "The cross bleed valve is:",
+      "Answers": [
+        "Controlled and operated electrically by 1 motor",
+        "Controlled and operated electrically by 2 motors",
+        "Controlled electrically, and operated pneumatically"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 4,
+      "QuestionString": "The Engine Bleed Air System (EBAS) uses:",
+      "Answers": [
+        "Hydro-pneumatic valves",
+        "Electro-pneumatic valves",
+        "Electrical valves"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 5,
+      "QuestionString": "Which area has the single detection loop?",
+      "Answers": [
+        "APU aft supply duct",
+        "Pylon",
+        "Wing"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 6,
+      "QuestionString": "The aircraft systems are supplied the HP compressor air from:",
+      "Answers": [
+        "Stage 3 and stage 8",
+        "Stage 3 and stage 7",
+        "Stage 3 and stage 6"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 7,
+      "QuestionString": "How are the position of valves of engine PW1100G bleed system monitored?",
+      "Answers": [
+        "By micro switches",
+        "By pressure transducers",
+        "By control signal from BMCs"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 8,
+      "QuestionString": "The conditioned bleed air supplied by engine PW1100G bleed system is:",
+      "Answers": [
+        "150 deg.C, 44 PSI",
+        "200 deg.C, 51 PSI",
+        "250 deg.C, 75 PSI"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 9,
+      "QuestionString": "How does FAV (Fan Air Valve) operate?",
+      "Answers": [
+        "BMC controlled by torque motor based on bleed air temperature",
+        "Autonomously pneumatic operative based on the controlled temperature thermostat",
+        "BMC controlled based on the precooler outlet temperature thermostat"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 10,
+      "QuestionString": "Which statement below is true?",
+      "Answers": [
+        "The BMC controls the HPV and PRV in independent mode",
+        "The BMC controls the HPV and PRV in order to make sure that the HPV will close when PRV is controlled closed",
+        "The HPV and PRV are pneumatically operated and their operation is independent from each other"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 11,
+      "QuestionString": "How is the cross bleed valve controlled and operated?",
+      "Answers": [
+        "Electrically controlled and pneumatically operated",
+        "Pneumatically controlled and operated",
+        "Electrically controlled and operated"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 12,
+      "QuestionString": "When APU bleed P/B is selected ON with Cross Bleed Valve rotary selector in AUTO position, lower ECAM BLEED page indicates:",
+      "Answers": [
+        "APU bleed valve open then the cross bleed valve open",
+        "APU bleed valve open but the cross bleed valve not open",
+        "Cross bleed valve open then APU bleed valve open"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 13,
+      "QuestionString": "In NEO configure 1 BMC can control and monitor:",
+      "Answers": [
+        "1 side that relation to",
+        "The both sides in sequent",
+        "The both sides when the other BMC fails"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 14,
+      "QuestionString": "BMC has:",
+      "Answers": [
+        "01 Channel",
+        "02 Channels A and B which the same function",
+        "Channel A Main control, Channel A Backup control, Channel B"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 15,
+      "QuestionString": "PRV is closed when:",
+      "Answers": [
+        "HPV failed open",
+        "Dual BTS channels failed",
+        "Either Associated Starter Air Valve (SAV) not Closed, HPV failed open or Dual BTS channels failed"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 16,
+      "QuestionString": "Which Pneumatic leak detection is NOT double loop?",
+      "Answers": [
+        "Wing loop",
+        "Pylon loop",
+        "APU loop"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 17,
+      "QuestionString": "IAW MEL, the aircraft can be dispatched with the defective High Pressure Valve (HPV) deactivated in the following position:",
+      "Answers": [
+        "Open",
+        "Close",
+        "Open or close depending on ice condition forecast during flight"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 18,
+      "QuestionString": "The OPV is:",
+      "Answers": [
+        "Pneumatically operated, torque motor controlled and monitored by BMC",
+        "Pneumatically operated, solenoid controlled and monitored by BMC",
+        "Pneumatically operated"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 19,
+      "QuestionString": "On NEO aircrafts, to detect the hot air leakage in pylon there is(are:",
+      "Answers": [
+        "Single loop that connected to the related BMC",
+        "2 loops and monitored by both BMCs",
+        "2 loops that connected to the related BMC for redundancy"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 20,
+      "QuestionString": "Hot air for nacelle anti-ice system on PW1100G engines supplied from:",
+      "Answers": [
+        "A/C bleed air system",
+        "Dedicated bleed air from LPC stage 3",
+        "Dedicated bleed air from HPC stage 6"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 21,
+      "QuestionString": "For PW 1130 Engine, HPV is:",
+      "Answers": [
+        "Electric control and Bleed Pressure open",
+        "Bleed Pressure control and open",
+        "Electric control and open"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 22,
+      "QuestionString": "For PW 1130 Engine, when one BMC has failed",
+      "Answers": [
+        "Remain BMC can control & monitor both side",
+        "Related PRV close",
+        "Related PRV open"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 23,
+      "QuestionString": "What condition causes the engine PRV to close pneumatically?",
+      "Answers": [
+        "Respective fire pushbutton guarded",
+        "Cross bleed valve in manual mode and engine PRV in auto-mode",
+        "In case of impending reverse flow to the engine1"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 24,
+      "QuestionString": "What is the Differential pressure sensor (DPS) for?",
+      "Answers": [
+        "BMC uses the signal of DPS to control IP/HP switching",
+        "DPS monitors the pressure, control the OPV position",
+        "DPS monitors the pressure, control the PRV position and make sure that no reverse flow occurs"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 25,
+      "QuestionString": "When an APU duct leak is detected during engine start from APU bleed:",
+      "Answers": [
+        "APU bleed and cross feed valves remain open",
+        "APU bleed and cross feed valves close",
+        "APU bleed valve closes and cross feed opens"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 26,
+      "QuestionString": "Bleed monitoring control (BMC) embedding:",
+      "Answers": [
+        "Digital control channel is a full digital channel embedding all the control and monitoring function to meet system requirements",
+        "Hardware safety part is a fully hardware part able to detect the system over-temperature",
+        "Two channels: Digital control channel (CHA) is a full digital channel embedding all the control and monitoring function to meet system requirements; Hardware safety part (CHB) is a fully hardware part able to detect the system over-temperature and is fully independent from software part"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 27,
+      "QuestionString": "What is the design principle of the bleed leak detection loop?",
+      "Answers": [
+        "Resistance",
+        "Pressure",
+        "Capacitor"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 28,
+      "QuestionString": "IP Check Valve connect to:",
+      "Answers": [
+        "HPC Stage HP3",
+        "HPC Stage HP6",
+        "LPC Stage LP2"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 29,
+      "QuestionString": "BMC was finding about reverse flow by:",
+      "Answers": [
+        "DPS: DIFFERENTIAL PRESSURE SENSOR",
+        "BMPS: BLEED MONITORING PRESSURE SENSOR",
+        "BPS: BLEED PRESSURE SENSOR"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 30,
+      "QuestionString": "System pressure monitoring by BMC based on:",
+      "Answers": [
+        "BPS: BLEED PRESSURE SENSOR",
+        "BTS: BLEED TEMPERATURE SENSOR",
+        "DPS: DIFFERENTIAL PRESSURE SENSOR"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 31,
+      "QuestionString": "BMC used Temperature to position FAV from:",
+      "Answers": [
+        "BMPS: BLEED MONITORING PRESSURE SENSOR",
+        "BTS: BLEED TEMPERATURE SENSOR",
+        "BPS: BLEED PRESSURE SENSOR"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 32,
+      "QuestionString": "HP Valve connect to:",
+      "Answers": [
+        "HPC Stage HP4",
+        "LPC Stage LP2",
+        "HPC Stage HP8"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 33,
+      "QuestionString": "Customer bleed for engine PW1100G are:",
+      "Answers": [
+        "3rd and 8th stage of HPC"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 34,
+      "QuestionString": "How can you operate the Nacelle anti-ice system?",
+      "Answers": [
+        "By ENG ANTI-ICE push button, on ground",
+        "By ENG ANTI-ICE push button, on ground and in flight",
+        "By ENG ANTI-ICE push button, in flight only"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 35,
+      "QuestionString": "How is the Engine anti-ice work?",
+      "Answers": [
+        "Electrically controlled and operated by 3rd stage high pressure compressor air",
+        "Electrically controlled and operated by 6th stage high pressure compressor air",
+        "Electrically controlled and operated by 9th stage high pressure compressor air"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 36,
+      "QuestionString": "In this NEO configuration, one BMC can:",
+      "Answers": [
+        "Control and monitor both sides when the other BMC fails",
+        "Report the failure independently of each other",
+        "Both answers are correct"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 37,
+      "QuestionString": "Which Engine Bleed Air System sensor is used by BMC for overpressure alarms?",
+      "Answers": [
+        "Bleed Pressure Sensor (BPS)",
+        "Bleed Monitoring Pressure Sensor (BMPS)",
+        "Differential Pressure Sensor (DPS)"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    }
+  ]
+}
