@@ -376,12 +376,11 @@
     "QuestionString": "When opening the engine cowls:",
     "Answers": [
       "Respect the wind limitations and the opening/closing sequence",
-      "Always secure cowls with the hold-open rods",
       "Make sure that the slats are retracted and install a warning notice to prevent slat operation",
       "All above"
     ],
     "Level": 2,
-    "CorrectAnswer": 4
+    "CorrectAnswer": 3
   },
   {
     "Index": 33,
