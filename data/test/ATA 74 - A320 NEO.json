@@ -143,12 +143,6 @@
   },
   {
     "Index": 11,
-    "QuestionString": "During an auto start on the ground, exciters are alternated as follows:",
-    "Answers": [],
-    "Level": 3
-  },
-  {
-    "Index": 12,
     "QuestionString": "The ignition system has the following number of Ignition Exciter Boxes and Igniter Plugs:",
     "Answers": [
       "One Ignition Exciter Box and two Igniter plugs",
@@ -157,6 +151,12 @@
     ],
     "Level": 2,
     "CorrectAnswer": 1
+  },
+  {
+    "Index": 12,
+    "QuestionString": "During an auto start on the ground, exciters are alternated as follows:",
+    "Answers": [],
+    "Level": 3
   }
   ]
 }

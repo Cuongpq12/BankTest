@@ -4,7 +4,7 @@
     {
       "CatName": "A",
       "QuestionRequired": [
-        32,
+        31,
         0,
         0
       ],
@@ -110,12 +110,6 @@
   },
   {
     "Index": 8,
-    "QuestionString": "What data is stored in DSU (Data Storage Unit)?",
-    "Answers": [],
-    "Level": 3
-  },
-  {
-    "Index": 9,
     "QuestionString": "Identify the number of fuel nozzles?",
     "Answers": [
       "Twelve (12)",
@@ -126,7 +120,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 10,
+    "Index": 9,
     "QuestionString": "The ring of vanes of Turbine Nozzle Assembly makes?",
     "Answers": [
       "Changing the direction of the hot gases to provide optimal flow, and pressure to the 1st stage turbine blades",
@@ -137,7 +131,7 @@
     "CorrectAnswer": 3
   },
   {
-    "Index": 11,
+    "Index": 10,
     "QuestionString": "Where is P2.5/T2.5 probe locate?",
     "Answers": [
       "On Compressor Intermediate Case at 1:00",
@@ -148,7 +142,7 @@
     "CorrectAnswer": 1
   },
   {
-    "Index": 12,
+    "Index": 11,
     "QuestionString": "PMA (Permanent Magnet Alternator) is cooled by:",
     "Answers": [
       "Fan air",
@@ -159,7 +153,7 @@
     "CorrectAnswer": 3
   },
   {
-    "Index": 13,
+    "Index": 12,
     "QuestionString": "The PHMU (Prognostics and Health Management Unit) communicates with EEC via:",
     "Answers": [
       "ARINC 429 data bus",
@@ -170,7 +164,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 14,
+    "Index": 13,
     "QuestionString": "The engine inlet pressure (P2) is measured by:",
     "Answers": [
       "P2/T2 probe located at 1 o’clock on inlet cowl",
@@ -181,7 +175,7 @@
     "CorrectAnswer": 3
   },
   {
-    "Index": 15,
+    "Index": 14,
     "QuestionString": "What is the function of the PHMU (Prognostics and Health Management Unit)?",
     "Answers": [
       "To monitor engine oil debris and FDGS lubrication. Also to calculates engine vibration and fan trim balance solutions",
@@ -192,7 +186,7 @@
     "CorrectAnswer": 1
   },
   {
-    "Index": 16,
+    "Index": 15,
     "QuestionString": "The Pressure Fuel consist of:",
     "Answers": [
       "Fuel cooling, fuel metered and fuel muscle",
@@ -203,7 +197,7 @@
     "CorrectAnswer": 1
   },
   {
-    "Index": 17,
+    "Index": 16,
     "QuestionString": "Is fuel flow used to cool down IDG oil and engine oil through?",
     "Answers": [
       "Integrated Fuel Pump and Control",
@@ -214,7 +208,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 18,
+    "Index": 17,
     "QuestionString": "The collected fuel remains in ecology collector tank is drawn back into fuel system when?",
     "Answers": [
       "Next engine start up",
@@ -225,7 +219,7 @@
     "CorrectAnswer": 1
   },
   {
-    "Index": 19,
+    "Index": 18,
     "QuestionString": "The FADEC consists of?",
     "Answers": [
       "EEC and PHMU",
@@ -236,7 +230,7 @@
     "CorrectAnswer": 3
   },
   {
-    "Index": 20,
+    "Index": 19,
     "QuestionString": "The PW110G Engine rating adjusted by:",
     "Answers": [
       "MCDU",
@@ -247,7 +241,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 21,
+    "Index": 20,
     "QuestionString": "The EEC and PHMU attached to Engine Fan Case",
     "Answers": [
       "At position 12h O’clock",
@@ -258,7 +252,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 22,
+    "Index": 21,
     "QuestionString": "The fan speed (Nf) speed sensors send signals direct to",
     "Answers": [
       "The PHMU & EEC",
@@ -269,7 +263,7 @@
     "CorrectAnswer": 3
   },
   {
-    "Index": 23,
+    "Index": 22,
     "QuestionString": "How many fuel nozzles are there on PW 1130 Engine?",
     "Answers": [
       "16",
@@ -280,7 +274,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 24,
+    "Index": 23,
     "QuestionString": "When the fuel filter becomes blocked by contamination:",
     "Answers": [
       "“Fuel filter degraded” message generated on ECAM",
@@ -291,7 +285,7 @@
     "CorrectAnswer": 3
   },
   {
-    "Index": 25,
+    "Index": 24,
     "QuestionString": "What is the function of the PHMU (Prognostics and Health Management Unit)?",
     "Answers": [
       "To monitor engine oil debris and FDGS lubrication, also to calculate engine vibration and fan trim balance solutions",
@@ -302,7 +296,7 @@
     "CorrectAnswer": 1
   },
   {
-    "Index": 26,
+    "Index": 25,
     "QuestionString": "When an output control failure is detected in active channel EEC:",
     "Answers": [
       "The EEC switches to passive/active operation mode",
@@ -313,7 +307,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 27,
+    "Index": 26,
     "QuestionString": "What data is stored in DSU (Data Storage Unit)?",
     "Answers": [
       "The Permanent Magnet Alternator (PMA) always",
@@ -323,7 +317,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 28,
+    "Index": 27,
     "QuestionString": "Normally the EEC is powered from:",
     "Answers": [
       "engine configuration and identification, usage and exceedance historical data, thrust ratings and vibration monitoring.",
@@ -334,7 +328,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 29,
+    "Index": 28,
     "QuestionString": "Which component divides the fuel to primary and secondary manifold?",
     "Answers": [
       "Fuel Metering Valve",
@@ -345,7 +339,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 30,
+    "Index": 29,
     "QuestionString": "Data Storage Unit connects to:",
     "Answers": [
       "EEC Channel A",
@@ -356,7 +350,7 @@
     "CorrectAnswer": 1
   },
   {
-    "Index": 31,
+    "Index": 30,
     "QuestionString": "What are/is the kind of different pressure fuel filter clog indication(s) available?",
     "Answers": [
       "Degrad",
@@ -367,7 +361,7 @@
     "CorrectAnswer": 2
   },
   {
-    "Index": 32,
+    "Index": 31,
     "QuestionString": "The annular combustion chamber houses",
     "Answers": [
       "18 fuel nozzles (6 simplex and 12 duplex)",

@@ -311,12 +311,11 @@
     "QuestionString": "What are purposes of Prognostics and Health Management Unit (PHMU)?",
     "Answers": [
       "Monitor and process levels for engine oil debris and rotor vibration",
-      "Calculate fan trim balance solutions",
       "Respond to requests from avionics system that are received through EEC",
       "All of above"
     ],
     "Level": 2,
-    "CorrectAnswer": 4
+    "CorrectAnswer": 3
   },
   {
     "Index": 27,
