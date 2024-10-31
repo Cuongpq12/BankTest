@@ -1,0 +1,2387 @@
+{
+  "ModuleName": "ATA 70 - 80",
+  "CatInfos": [
+    {
+      "CatName": "A",
+      "QuestionRequired": [
+        214,
+        0,
+        0
+      ],
+      "TimeLimit": 10
+    },
+    {
+      "CatName": "B1",
+      "QuestionRequired": [
+        8,
+        0,
+        0
+      ],
+      "TimeLimit": 45
+    },
+    {
+      "CatName": "B2",
+      "QuestionRequired": [
+        8,
+        0,
+        0
+      ],
+      "TimeLimit": 45
+    }
+  ],
+  
+  "Questions": [
+  {
+    "Index": 1,
+    "QuestionString": "Features of PW1100G-JM engine are:",
+    "Answers": [
+      "Axial flow, twin spool turbofan with an ultra-high bypass ratio, low speed gear-driven fan",
+      "Axial flow, twin spool turbofan with an ultra-high bypass ratio, high speed gear-driven fan",
+      "Axial flow, twin spool turbofan with a low bypass ratio, low speed gear-driven fan"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 2,
+    "QuestionString": "“PW1130G-JM” means:",
+    "Answers": [
+      "Engine is rated at max thrust of 25300 lbs to install in the Airbus A/C",
+      "Engine is rated at max thrust of 30000 lbs to install in the Airbus A/C",
+      "Engine is rated at max thrust of 25000 lbs to install in the Airbus A/C"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 3,
+    "QuestionString": "Fan cowls:",
+    "Answers": [
+      "Each of the 3 fan cowl door latches has a fan cowl door proximity sensor which is able to detect whether the relative latch is locked to alert the ground crew to the fan cowl’s position",
+      "Fan cowl door has two fan cowl door proximity sensors which are able to detect whether the relative latch is locked to alert the ground crew to the fan cowl’s position",
+      "Fan cowl door has a fan cowl door proximity sensor which is able to detect whether the relative latch is locked to alert the ground crew to the fan cowl’s position"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 4,
+    "QuestionString": "Engine mounts have:",
+    "Answers": [
+      "The FWD mount assy is attached to the CIC, supports side and vertical loads and the AFT mount assy is attached to the TEC, reacts to engine fore-aft, side, vertical, roll loads",
+      "The FWD mount assy is attached to the TEC, supports side and vertical loads and the AFT mount assy is attached to the CIC, reacts to engine fore-aft, side, vertical, roll loads",
+      "The FWD mount assy is attached to the CICF, supports side and vertical loads and the AFT mount assy is attached to the TECF, reacts to engine fore-aft, side, vertical, roll loads"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 5,
+    "QuestionString": "Nacelle system components provide the engine with the capabilities:",
+    "Answers": [
+      "An aerodynamic for engine mounted components",
+      "An aerodynamic and protective enclosure for engine mounted components; Collection and discharge of oil, fuel and hydraulic fluid from the engine and its components",
+      "An aerodynamic and protective enclosure for engine mounted components; Collection and discharge of oil, fuel from the engine and its components"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 6,
+    "QuestionString": "The Aft Engine Mount Assy supports:",
+    "Answers": [
+      "The engine fore-aft, side, vertical, and roll loads",
+      "The engine vertical, and roll loads",
+      "The engine side and vertical loads"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 7,
+    "QuestionString": "The aerodynamic station 2.5 locates at:",
+    "Answers": [
+      "Outlet of LPC",
+      "Outlet of HPC",
+      "Outlet of LPT"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 8,
+    "QuestionString": "To alert the maintenance staff to fan cowl’s not closed position:",
+    "Answers": [
+      "Each fan cowl latch has a proximity switch",
+      "The middle fan cowl latch has a proximity switch",
+      "Each fan cowl has a proximity switch"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 9,
+    "QuestionString": "The primary thrust control parameter of the engine PW1100G is:",
+    "Answers": [
+      "N1",
+      "N2",
+      "EPR"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 10,
+    "QuestionString": "ENG PW1100G equips with Aircraft Model:",
+    "Answers": [
+      "A321 only",
+      "A320 only",
+      "A319, A320, A321"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 11,
+    "QuestionString": "PW1100G highest Thrust could be set up to:",
+    "Answers": [
+      "33.000lb",
+      "23.000lb",
+      "43.000lb"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 12,
+    "QuestionString": "Proximity sensors are installed on each latch of fan cowl doors which sends its position signal to",
+    "Answers": [
+      "the Engine Interface Unit (EIU) & the EEC",
+      "the EEC",
+      "the Engine Interface Unit (EIU)"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 13,
+    "QuestionString": "How many Bearing PW1100G has:",
+    "Answers": [
+      "8",
+      "7",
+      "4"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 14,
+    "QuestionString": "How many Bearing Compartment PW1100G has:",
+    "Answers": [
+      "5",
+      "3",
+      "7"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 15,
+    "QuestionString": "The Fan rotor contributes to approximately",
+    "Answers": [
+      "70% of the thrust",
+      "80% of the thrust",
+      "90% of the thrust"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 16,
+    "QuestionString": "How many fan blades are there at the fan rotor?",
+    "Answers": [
+      "20",
+      "24",
+      "36"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 17,
+    "QuestionString": "Each half of C ducts includes one translating sleeve, two actuators,",
+    "Answers": [
+      "ten blocker doors and cascades",
+      "five blocker doors and cascades",
+      "five blocker doors and pivoting doors"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 18,
+    "QuestionString": "How many preservation methods are used for the protection of out-of-service engines?",
+    "Answers": [
+      "3: Preserve the engine for 30 days, or 60 days, or 90 days",
+      "2: Preserve the engine for 30 days, or 60 days",
+      "2: Preserve the engine for more than 60 days or for 60 days or less"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 19,
+    "QuestionString": "Each fan cowl door is manually opened, and held open with:",
+    "Answers": [
+      "Two telescopic hold open rods",
+      "One telescopic and one fix hold open rods",
+      "Two fix hold open rods"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 20,
+    "QuestionString": "Each thrust reverser cowl door can be opened:",
+    "Answers": [
+      "By hand and held open with two hold open rods",
+      "Using the Door Opening System (DOS) by means of hydraulic hand pump and held open by one fix hold open rod",
+      "Using the Door Opening System (DOS) by means of hydraulic hand pump and held open by two fix hold open rods"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 21,
+    "QuestionString": "The Engine Drain System collects and discharges fluids from the engine and pylon through drain outlets located:",
+    "Answers": [
+      "On the sides of the drain mast",
+      "On the bottom of the drain mast",
+      "On the side and bottom of the drain mast"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 22,
+    "QuestionString": "For PW 1130 Engine, The ENG Drain mast gives a leak path exit for hydraulic, oil and:",
+    "Answers": [
+      "Fuel component",
+      "Reverser system actuators",
+      "Permanent Magnet Alternator (PMA)"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 23,
+    "QuestionString": "The PW1000G engine unique design features:",
+    "Answers": [
+      "An engine fan separated from the low pressure rotor, so that each module operates at optimal speeds",
+      "The engine makes use of a number of composite components including a composite fan blade, to achieve a significant weight reduction",
+      "The unique debris rejection system provides the best erosion protection, preventing sand, dirt, and other harmful items from reaching the core"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 24,
+    "QuestionString": "Proximity sensors are installed on each latch of fan cowl doors which sends its position signal to",
+    "Answers": [
+      "The Engine Interface Unit (EIU) & the EEC",
+      "The Engine Interface Unit (EIU)"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 25,
+    "QuestionString": "The inlet cone is made of composite material and is anti-iced with a continuous airflow from",
+    "Answers": [
+      "The HP compressor stage",
+      "The 2.5 compressor stage",
+      "The ram air inlet"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 26,
+    "QuestionString": "The FDGS permits the LPC to rotate at a higher speed and",
+    "Answers": [
+      "Helps in reducing the fan rotating speed",
+      "Helps in increasing the fan rotating speed",
+      "Helps in remaining the fan rotating speed constant"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 27,
+    "QuestionString": "The forward mount assembly bears",
+    "Answers": [
+      "The engine thrust, vertical and lateral loads",
+      "The engine vertical and radial loads",
+      "The engine thrust and radial loads"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 28,
+    "QuestionString": "The fan rotational speeds being lower",
+    "Answers": [
+      "Helps in reducing rotational loads and bird strike fan damage",
+      "Helps in increasing rotational loads and bird strike fan damage",
+      "Helps in reducing rotational loads"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 29,
+    "QuestionString": "The geared turbo fan engine reduces the CO2 and NOx emissions and provides improved",
+    "Answers": [
+      "Fuel efficiency and low cost",
+      "Fuel efficiency and reduces engine noise",
+      "Fuel efficiency and reduces flight range"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 30,
+    "QuestionString": "Each half of reverser cowl doors:",
+    "Answers": [
+      "Is held closed by 4 latches",
+      "Is held open by a hold open rod and an opening actuator",
+      "Is held open by two hold open rods"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 31,
+    "QuestionString": "To open the PW1100G engine’s thrust reverser cowls",
+    "Answers": [
+      "Slats must be fully retracted",
+      "Slats must be fully extended",
+      "Slats can be at any position"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 32,
+    "QuestionString": "When opening the engine cowls:",
+    "Answers": [
+      "Respect the wind limitations and the opening/closing sequence",
+      "Make sure that the slats are retracted and install a warning notice to prevent slat operation",
+      "All above"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 33,
+    "QuestionString": "Engine drains system provides an aerodynamic drain mast protrudes:",
+    "Answers": [
+      "Exit holes on the sides and bottom surface which are identified to enable troubleshooting",
+      "Exit holes on the sides which are identified to enable troubleshooting",
+      "Exit holes on the bottom surface which are identified to enable troubleshooting"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 34,
+    "QuestionString": "Fluids drained from the power plant are?",
+    "Answers": [
+      "Fuel, oil or hydraulic",
+      "Fuel, oil or water",
+      "Fuel, oil, hydraulic or water"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 35,
+    "QuestionString": "The forward mount:",
+    "Answers": [
+      "Carries the engine torque, thrust and side loads",
+      "Carries the engine torque, vertical and side loads",
+      "Carries the engine thrust, vertical and side loads"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 36,
+    "QuestionString": "The aft mount:",
+    "Answers": [
+      "Carries the engine torque, thrust and side loads",
+      "Carries the engine torque, vertical and side loads",
+      "Carries the engine thrust, vertical and side loads"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 37,
+    "QuestionString": "Fluids drained from the pylon are?",
+    "Answers": [
+      "Fuel, oil or hydraulic",
+      "Fuel, oil or water",
+      "Fuel, hydraulic or water"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 38,
+    "QuestionString": "The engine is attached to the pylon by",
+    "Answers": [
+      "FWD and AFT mounts",
+      "FWD, middle and AFT mounts",
+      "Three mounts"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 39,
+    "QuestionString": "How many Fan Cowl Door latches are there on PW 1130?",
+    "Answers": [
+      "2",
+      "3",
+      "4"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 40,
+    "QuestionString": "How many Thrust Reverser cowl Door latches are there on PW 1130?",
+    "Answers": [
+      "6",
+      "7",
+      "8"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 41,
+    "QuestionString": "How many hold open rods on each Reverser cowl?",
+    "Answers": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 1,
+    "QuestionString": "How many type of Engine main bearings:",
+    "Answers": [
+      "Three types of bearing: Roller bearing with alignment and load: axial; Ball bearing and Tapered roller bearing with alignment and load: axial and radial",
+      "Three types of bearing: Roller bearing with alignment and load: radial; Ball bearing and Tapered roller bearing with alignment and load: axial and radial",
+      "Three types of bearing: Roller bearing with alignment and load radial; Ball bearing and Tapered roller bearing with alignment and load axial"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 2,
+    "QuestionString": "Engine’s main bearing No.1 and No.1.5 are:",
+    "Answers": [
+      "Oil-damped bearings",
+      "Tapered roller type",
+      "Ball type bearings"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 3,
+    "QuestionString": "What kind of bearing is used for bearing compartments (4, 5, 6)?",
+    "Answers": [
+      "Tapered Roller",
+      "Ball",
+      "Roller"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 4,
+    "QuestionString": "Features of PW1100G engine are:",
+    "Answers": [
+      "Axial flow, dual-rotor, variable stator, high bypass ratio power plant",
+      "Radial flow, dual-rotor, variable stator, high bypass ratio power plant",
+      "Axial flow, dual-rotor, geared fan, variable stator, ultra high bypass ratio power plant"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 5,
+    "QuestionString": "Identify the number of blades in one engine fan set?",
+    "Answers": [
+      "Thirty six (36)",
+      "Twenty (20)",
+      "Twenty two (22)"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 6,
+    "QuestionString": "The LPCompressor has how many stages?",
+    "Answers": [
+      "Only one stage",
+      "Two stages",
+      "Three stages"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 7,
+    "QuestionString": "The engine rotor comprises",
+    "Answers": [
+      "A single stage fan rotor, 3 stage LP Compressor, 8 stage HP Compressor, 2 stage HP turbine and 3 stage LP turbine",
+      "A single stage fan rotor, 3 stage LP Compressor, 9 stage HP Compressor, 2 stage HP turbine and 3 stage LP turbine",
+      "A single stage fan rotor, 4 stage LP Compressor, 8 stage HP Compressor, 2 stage HP turbine and 3 stage LP turbine"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 8,
+    "QuestionString": "The primary structure of the PW1100G-JM engine are:",
+    "Answers": [
+      "FIC (Fan Intermediate Case) and TIC (Turbine Intermediate Case)",
+      "CIC (Compressor Intermediate Case) and TEC (Turbine Exhaust Case)",
+      "Fan case and TIC (Turbine Intermediate Case)"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 9,
+    "QuestionString": "The Fan Drive Gear System (FDGS) is made up of:",
+    "Answers": [
+      "A central gear surrounded by three star gears which are supported by journal bearings",
+      "A central sun gear surrounded by five star gears which are supported by journal bearings and an outer ring gear",
+      "A central sun gear surrounded by five star gears which are supported by an outer ring gear"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 10,
+    "QuestionString": "What is No. 4 Roller Bearing assembly support?",
+    "Answers": [
+      "The rear of HPT rotor and contains the No. 4 Bearing support, attached to the inner case",
+      "The rear of LPT rotor and contains the No. 4 Bearing support, attached to the outer case",
+      "The rear of LPT rotor and contains the No. 4 Bearing support, attached to the inner case"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 11,
+    "QuestionString": "How the Engine main gearbox (MGB) are driven by?",
+    "Answers": [
+      "N1 rotor",
+      "N2 rotor via the transfer gear box",
+      "The Angle gearbox (AGB) extracts power from HPC and provides it to the MGB through a series of gear shafts"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 12,
+    "QuestionString": "What is the purpose of Compressor Intermediate Case (CIC)?",
+    "Answers": [
+      "Providing a flow path for engine core airflow coming from the LPC to the HPC",
+      "Providing a flow path for engine core airflow coming from the Fan Intermediate Case (FIC) to the LPC",
+      "Neither A nor B"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 13,
+    "QuestionString": "The PW1100G-JM engine’s stage counting is as follows:",
+    "Answers": [
+      "1-4-9-1-5",
+      "1-G-4-10-2-5",
+      "1-G-3-8-2-3"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 14,
+    "QuestionString": "How to identify the Fan blade No.1?",
+    "Answers": [
+      "The number is vibro-peened on fan hub platform",
+      "The number is vibro-peened on fan blade",
+      "The number is vibro-peened on retaining lock ring"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 15,
+    "QuestionString": "The PW1100G engine unique design features:",
+    "Answers": [
+      "An engine fan separated from the low pressure rotor, so that each module operates at optimal speeds",
+      "The engine makes use of a number of composite components including a composite fan blade, to achieve a significant weight reduction",
+      "The unique debris rejection system provides the best erosion protection, preventing sand, dirt, and other harmful items from reaching the core"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 16,
+    "QuestionString": "Which component does help in improving engine performance by reducing fan rotating speed and permitting LPC to higher speed?",
+    "Answers": [
+      "Fan Exit Guide Vane (VIGV)",
+      "Variable Inlet Guide Vanes (VIGV)",
+      "Fan Drive Gear System (FDGS)"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 17,
+    "QuestionString": "What is true regarding the PW1100G Fan blades?",
+    "Answers": [
+      "Solid laminate composite structured with titanium strip reinforced on the leading edge",
+      "Partially hollow and made of aluminum and a titanium strip is bonded to the leading edge",
+      "Partially hollow and made of titanium with a steel strip bonded to the leading edge"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 18,
+    "QuestionString": "Fan Drive Gear System (FDGS) basically is:",
+    "Answers": [
+      "Worm gearbox",
+      "Differential gearbox",
+      "Planetary gearbox"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 19,
+    "QuestionString": "The FDGS is a reduction gear mechanism which comprises of a central sun gear and",
+    "Answers": [
+      "Five planetary gears arranged like a star",
+      "Four planetary gears arranged like a star",
+      "Six planetary gears arranged like a star"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 1,
+    "QuestionString": "Power supplies to EEC:",
+    "Answers": [
+      "From the Permanent magnet alternator (PMA) only",
+      "From the aircraft or from the Permanent magnet alternator (PMA) as a backup supply",
+      "From the Permanent magnet alternator (PMA) or from the aircraft as a backup supply"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 2,
+    "QuestionString": "What is Integrated fuel pump and control (IFPC) for?",
+    "Answers": [
+      "IFPC supplies metered fuel flow to the engine as scheduled by the EEC",
+      "IFPC supplies pressurized fuel to engine component actuators",
+      "Both answer are correct"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 3,
+    "QuestionString": "How is Return to tank (RTT) valve controlled?",
+    "Answers": [
+      "The RTT valve is controlled by EEC (12)",
+      "The RTT valve is controlled by EEC, and is actuated based on aircraft altitude, ambient temperature and fuel flow",
+      "The RTT valve is controlled by FQIC and EEC, and is actuated based on aircraft altitude, ambient temperature and fuel flow"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 4,
+    "QuestionString": "The fuel metering valve located in IFPC and controlled by:",
+    "Answers": [
+      "EIU",
+      "EEC",
+      "PHMU"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 5,
+    "QuestionString": "To minimize the build-up of carbon in the combustion chamber and to reduces toxic gas emissions at engine shutdown:",
+    "Answers": [
+      "Remaining fuel from the primary and secondary lines is collected and discharged overboard through drain mast",
+      "Remaining fuel from the primary and secondary lines is purged into combustion chamber",
+      "Remaining fuel from the primary and secondary lines is drained and collected in recovery tank and reused at next startup"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 6,
+    "QuestionString": "How is the Return-to-Tank (RTT) valve controlled?",
+    "Answers": [
+      "By the EEC and is actuated based on aircraft altitude, ambient temperature, and fuel flow",
+      "By the PHMU and is actuated based on fuel temperature",
+      "By the EIU and is actuated based on fuel temperature"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 7,
+    "QuestionString": "How do the EEC’s both channels operate at normal mode?",
+    "Answers": [
+      "They are in active/passive mode",
+      "They are in active/active mode",
+      "They are in active/standby mode"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 8,
+    "QuestionString": "Identify the number of fuel nozzles?",
+    "Answers": [
+      "Twelve (12)",
+      "Eighteen (18)",
+      "Twenty two (22)"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 9,
+    "QuestionString": "The ring of vanes of Turbine Nozzle Assembly makes?",
+    "Answers": [
+      "Changing the direction of the hot gases to provide optimal flow, and pressure to the 1st stage turbine blades",
+      "Changing the direction of the hot gases to provide optimal angle, and flow to the combustion chamber",
+      "Changing the direction of the hot gases to provide optimal angle, pressure, and flow to the 1st stage turbine blades"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 10,
+    "QuestionString": "Where is P2.5/T2.5 probe locate?",
+    "Answers": [
+      "On Compressor Intermediate Case at 1:00",
+      "On Compressor Intermediate Case at 6:00",
+      "On High-pressure Intermediate Case at 1:00"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 11,
+    "QuestionString": "PMA (Permanent Magnet Alternator) is cooled by:",
+    "Answers": [
+      "Fan air",
+      "2.5 bleed air",
+      "Engine oil"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 12,
+    "QuestionString": "The PHMU (Prognostics and Health Management Unit) communicates with EEC via:",
+    "Answers": [
+      "ARINC 429 data bus",
+      "CAN (Control Area Network) data bus",
+      "Ethernet bus"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 13,
+    "QuestionString": "The engine inlet pressure (P2) is measured by:",
+    "Answers": [
+      "P2/T2 probe located at 1 o’clock on inlet cowl",
+      "Pressure port located on EEC",
+      "It is not measured directly, instead the EEC calculates P2 from Ps14"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 14,
+    "QuestionString": "What is the function of the PHMU (Prognostics and Health Management Unit)?",
+    "Answers": [
+      "To monitor engine oil debris and FDGS lubrication. Also to calculates engine vibration and fan trim balance solutions",
+      "To predict the engine future malfunctions",
+      "To back up EEC operation"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 15,
+    "QuestionString": "The Pressure Fuel consist of:",
+    "Answers": [
+      "Fuel cooling, fuel metered and fuel muscle",
+      "Fuel cooling, fuel return and fuel cycle",
+      "Fuel return, fuel cycle and fuel muscle"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 16,
+    "QuestionString": "Is fuel flow used to cool down IDG oil and engine oil through?",
+    "Answers": [
+      "Integrated Fuel Pump and Control",
+      "Fuel/Oil Heat Exchanger",
+      "Return-To-Tank valve"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 17,
+    "QuestionString": "The collected fuel remains in ecology collector tank is drawn back into fuel system when?",
+    "Answers": [
+      "Next engine start up",
+      "Last engine shut down",
+      "Aircraft is energized"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 18,
+    "QuestionString": "The FADEC consists of?",
+    "Answers": [
+      "EEC and PHMU",
+      "EEC, PHMU and sensors",
+      "EEC, PHMU, sensors and output drivers"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 19,
+    "QuestionString": "The PW110G Engine rating adjusted by:",
+    "Answers": [
+      "MCDU",
+      "DSU",
+      "Cannot be adjusted"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 20,
+    "QuestionString": "The EEC and PHMU attached to Engine Fan Case",
+    "Answers": [
+      "At position 12h O’clock",
+      "At position 2h30 O’clock",
+      "At position 4h O’clock"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 21,
+    "QuestionString": "The fan speed (Nf) speed sensors send signals direct to",
+    "Answers": [
+      "The PHMU & EEC",
+      "The PHMU",
+      "The EEC"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 22,
+    "QuestionString": "How many fuel nozzles are there on PW 1130 Engine?",
+    "Answers": [
+      "16",
+      "18",
+      "20"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 23,
+    "QuestionString": "When the fuel filter becomes blocked by contamination:",
+    "Answers": [
+      "“Fuel filter degraded” message generated on ECAM",
+      "“Fuel filter clogged” message generated on ECAM",
+      "“Fuel filter degraded” or “Fuel filter clogged” message generated on ECAM depending on specific differential pressure values"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 24,
+    "QuestionString": "What is the function of the PHMU (Prognostics and Health Management Unit)?",
+    "Answers": [
+      "To monitor engine oil debris and FDGS lubrication, also to calculate engine vibration and fan trim balance solutions",
+      "To predict the engine future malfunctions",
+      "To back up EEC operation"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 25,
+    "QuestionString": "When an output control failure is detected in active channel EEC:",
+    "Answers": [
+      "The EEC switches to passive/active operation mode",
+      "The EEC switches to active/active operation mode",
+      "The EEC switches to standby/active operation mode"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 26,
+    "QuestionString": "What data is stored in DSU (Data Storage Unit)?",
+    "Answers": [
+      "The Permanent Magnet Alternator (PMA) always",
+      "The Permanent Magnet Alternator (PMA) when N2 > 12%"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 27,
+    "QuestionString": "Normally the EEC is powered from:",
+    "Answers": [
+      "engine configuration and identification, usage and exceedance historical data, thrust ratings and vibration monitoring.",
+      "engine configuration, identification and vibration monitoring.",
+      "The aircraft as a primary supply"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 28,
+    "QuestionString": "Which component divides the fuel to primary and secondary manifold?",
+    "Answers": [
+      "Fuel Metering Valve",
+      "Fuel Divider Valve",
+      "Pressure Regulating Valve"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 29,
+    "QuestionString": "Data Storage Unit connects to:",
+    "Answers": [
+      "EEC Channel A",
+      "EEC Channel B",
+      "PHMU"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 30,
+    "QuestionString": "What are/is the kind of different pressure fuel filter clog indication(s) available?",
+    "Answers": [
+      "Degrad",
+      "Clog & degrad",
+      "Clog"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 31,
+    "QuestionString": "The annular combustion chamber houses",
+    "Answers": [
+      "18 fuel nozzles (6 simplex and 12 duplex)",
+      "18 fuel nozzles (9 simplex and 9 duplex)",
+      "18 fuel nozzles (12 simplex and 6 duplex)"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 1,
+    "QuestionString": "Which type is the ignition system?",
+    "Answers": [
+      "Low voltage, high energy",
+      "High voltage, low energy",
+      "High voltage, high energy"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 2,
+    "QuestionString": "What happens in case a surge is detected in flight or during take-off?",
+    "Answers": [
+      "Igniters will be powered until 30 seconds after the surge recovers",
+      "Only one igniter will be powered, the other will be hot standby",
+      "Igniters will be powered and cut-off immediately after the surge recovers"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 3,
+    "QuestionString": "What provides the selection of ignition A/B?",
+    "Answers": [
+      "The EEC",
+      "The engine control panel",
+      "The ECAM control panel"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 4,
+    "QuestionString": "When using the Manual start ignition selection:",
+    "Answers": [
+      "EEC energizes one of igniters based on logic and aircraft inputs of flap position",
+      "EEC energizes both igniters based on logic and aircraft inputs of flap position, cowl anti-ice status, and/or continuous ignition commands",
+      "EEC energizes both igniters based on logic and aircraft inputs of thrust lever position, cowl anti-ice status, and/or continuous ignition commands"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 5,
+    "QuestionString": "What does Continuous Relight mean?",
+    "Answers": [
+      "An active ignition system will work continuously",
+      "Both ignition systems are selected during engine start",
+      "Both ignition systems are demanded to work continuously"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 6,
+    "QuestionString": "Each engine equipped with?",
+    "Answers": [
+      "One ignition system with two igniters",
+      "Two ignition systems, each has two igniters",
+      "Two ignition systems with two igniters"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 3
+  },
+  {
+    "Index": 7,
+    "QuestionString": "Ignition system power supply is?",
+    "Answers": [
+      "115 V from the aircraft",
+      "115 V from engine generator",
+      "28 V from the FADEC PMA"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 8,
+    "QuestionString": "How many ignition exciter units are located on PW 1100G engine?",
+    "Answers": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 9,
+    "QuestionString": "In what conditions is the automatic dual-igniter continuous ignition provided by EEC?",
+    "Answers": [
+      "An engine flameout or a surge during takeoff or when fuel cutback due to Thrust Control Malfunction (TCM)",
+      "FADEC failure",
+      "Exciter Unit failure"
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 10,
+    "QuestionString": "During an autostart on the ground, exciters are alternated as follows:",
+    "Answers": [
+      "EEC Channel A - Igniter 1, EEC Channel B - Igniter 1, EEC Channel A - Igniter 2, EEC Channel B - Igniter 2.",
+      "EEC Channel A - Igniter 1, EEC Channel B - Igniter 2, EEC Channel A - Igniter 2, EEC Channel B - Igniter 1.",
+      "EEC active channel randomly select the igniters."
+    ],
+    "Level": 3,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 11,
+    "QuestionString": "The ignition system has the following number of Ignition Exciter Boxes and Igniter Plugs:",
+    "Answers": [
+      "One Ignition Exciter Box and two Igniter plugs",
+      "Two Ignition Exciter Boxes and two Igniter plugs",
+      "One Ignition Exciter Box and one Igniter plug"
+    ],
+    "Level": 2,
+    "CorrectAnswer": 1
+  },
+    {
+      "Index": 1,
+      "QuestionString": "How many start bleed valves on PW1100G?",
+      "Answers": [
+        "2",
+        "3",
+        "4"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 2,
+      "QuestionString": "Which stage the start bleed valve install on?",
+      "Answers": [
+        "6th",
+        "7th",
+        "8th"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 3,
+      "QuestionString": "The operating LP compressor stator vane actuator (LPC SVA), if there is a loss of electrical power?",
+      "Answers": [
+        "The actuator positions vanes in the full close position for inhibited airflow through the LPC",
+        "The actuator positions vanes in the full open fail safe position for maximum airflow through the LPC",
+        "Neither A nor B"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 4,
+      "QuestionString": "What is the purpose of the 2.5 Bleed valve actuator?",
+      "Answers": [
+        "Control the LPC bleed valve through the 2.5 bleed valve linkage when commanded by EEC",
+        "Control the HPC bleed valve through the 2.5 bleed valve linkage when commanded by EEC",
+        "Control the LPT bleed valve through the 2.5 bleed valve linkage when commanded by EEC"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 5,
+      "QuestionString": "Which is bleed air system used to improve engine startup performance?",
+      "Answers": [
+        "The HPC Bleed air system bleeds 6th stage HPC air",
+        "The HPC Bleed air system bleeds 8th stage HPC air",
+        "The LPC Bleed air system bleeds 8th stage HPC air"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 6,
+      "QuestionString": "At start, how are the HPC active and passive bleed valve operate?",
+      "Answers": [
+        "Mechanically spring loaded (fail safe) open",
+        "Electrically control to close",
+        "Electrically control to open"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 7,
+      "QuestionString": "How is Active clearance control valve operate?",
+      "Answers": [
+        "During normal engine operation, the valve is closed at start and idle",
+        "Partially open at takeoff and climb, and fully open at cruise",
+        "Both answer are correct"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 8,
+      "QuestionString": "Is the purpose of the Active Clearance Control (ACC) system?",
+      "Answers": [
+        "To improve compressor efficiency",
+        "To improve and maintain engine performance",
+        "To reduce overall engine thermal growth"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 9,
+      "QuestionString": "What is 5 major function of air system on PW1100G?",
+      "Answers": [
+        "1, 2, 3, 4, 5",
+        "1, 3, 4, 5, 7",
+        "1, 3, 4, 6, 7"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 10,
+      "QuestionString": "What is the fail safe position of 2.5 Bleed valve actuator?",
+      "Answers": [
+        "Fully Close",
+        "Fully open",
+        "30% open"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 11,
+      "QuestionString": "The HPC Stator Vane Actuator can control how many stage of HPC?",
+      "Answers": [
+        "2",
+        "3",
+        "4"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 12,
+      "QuestionString": "What is the purpose of Buffer air heat exchanger?",
+      "Answers": [
+        "Provides discrete (on/off) control of HPC 3rd Stage bleed air supply to the Bearing Ventilation System",
+        "Use station 2.5 bleed air to cool HPC 3rd Stage Air before its delivery to the No.4 Bearing housing",
+        "Provide cooling buffer air to the engine main bearing compartment and prevent oil leakage"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 13,
+      "QuestionString": "What is the purpose of LPBSOV - Low pressure buffer shutoff valve?",
+      "Answers": [
+        "Provides discrete (on/off) control of HPC 3rd Stage servo pressure sent to the LPBSOV",
+        "Direct buffer air to the Bearing Ventilation System",
+        "Provides discrete (on/off) control of HPC 3rd Stage bleed air supply to the Bearing Ventilation System"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 14,
+      "QuestionString": "How is the inlet cone anti-iced?",
+      "Answers": [
+        "The inlet cone is not anti-iced at all",
+        "The inlet cone is anti-iced when engine anti-ice pushbutton is pushed on",
+        "The inlet cone is anti-iced with a continuous flow of 2.5 bleed air"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 15,
+      "QuestionString": "The VVS (Variable Vanes System) actuators of LPC and HPC are:",
+      "Answers": [
+        "Electrically controlled by EEC and actuated by servo fuel",
+        "Electrically controlled by EEC and actuated by P3 pneumatic motive air",
+        "Electrically controlled and actuated by EEC"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 16,
+      "QuestionString": "The 2.5 bleed valve actuator commanded by the EEC and actuated:",
+      "Answers": [
+        "By P3 pneumatic motive air",
+        "Electrical motor",
+        "Servo fuel"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 17,
+      "QuestionString": "What is the fail-safe position of LPC Stator Vane System?",
+      "Answers": [
+        "Full closed",
+        "Full open",
+        "Preselected partially open"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 18,
+      "QuestionString": "What is the fail-safe position of 2.5 Bleed Valve?",
+      "Answers": [
+        "Full closed",
+        "Full open",
+        "Preset partially open"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 19,
+      "QuestionString": "How to improve engine startup performance by the HPC Air System?",
+      "Answers": [
+        "By 2.5 bleed air valve",
+        "By two HPC bleed valves",
+        "By three HPC bleed valves"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 20,
+      "QuestionString": "What is the function of HPC bleed valves?",
+      "Answers": [
+        "Allow HPC 6th Stage air to bleed directly into the core compartment during engine start",
+        "Allow HPC 6th Stage air to bleed directly into fan flow during engine start",
+        "Allow HPC 3rd Stage air to bleed directly into the core compartment during engine start"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 21,
+      "QuestionString": "How does EEC monitor the position of HPC bleed valves?",
+      "Answers": [
+        "By thermocouple sensors",
+        "By pressure sensors",
+        "There is no position feedback to EEC"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 22,
+      "QuestionString": "The ACC (Active Clearance Control) System uses fan air to:",
+      "Answers": [
+        "Cool turbine’s blades and vanes",
+        "Cool turbine cases to improve the fuel efficiency",
+        "Cool bearing compartments"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 23,
+      "QuestionString": "What is the fail-safe mode of the ACC (Active Clearance Control) valve and actuator?",
+      "Answers": [
+        "Closed",
+        "Full open",
+        "Partially open"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 24,
+      "QuestionString": "2.5 Stage Bleed Valve locates at:",
+      "Answers": [
+        "Low Pressure Compressor",
+        "Compressor Intermediate Case",
+        "High Pressure Compressor"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 25,
+      "QuestionString": "The engine inlet cone is anti-iced with",
+      "Answers": [
+        "Continuous airflow from the 2.5 compressor stage",
+        "Continuous airflow from the 3 compressor stage",
+        "Continuous airflow from the 6 compressor stage"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 26,
+      "QuestionString": "A single stage Variable Inlet Guide Vanes (VIGVs) which direct the air to the LP Compressor at the correct angle and",
+      "Answers": [
+        "Are controlled by the PHMU",
+        "Are controlled by the EEC",
+        "Are not controlled by the EEC"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 27,
+      "QuestionString": "No.4 bearing compartment is cooled and sealing by:",
+      "Answers": [
+        "Buffer air (HPC 3rd stage air cooled by 2.5 bleed air)",
+        "Buffer air (HPC 3rd stage air cooled by fan air)",
+        "Buffer air (2.5 bleed air cooled by fan air)"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 28,
+      "QuestionString": "To maintain the proper air pressure at bearing compartment Nos. 1, 2, 3, and 5/6 for carbon seals:",
+      "Answers": [
+        "HPC 3rd Stage air is supplied to achieve the function",
+        "2.5 bleed air is used for this function",
+        "Depending on power setting 2.5 bleed air or HPC 3rd stage air is used for bearing compartments sealing/pressurizing"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 1,
+      "QuestionString": "Which computer controls the engine thrust?",
+      "Answers": [
+        "EEC in both manual and automatic thrust modes",
+        "FMGC in automatic thrust mode and ECU in manual mode",
+        "FCU in both manual and automatic thrust modes"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 2,
+      "QuestionString": "When the throttle is between two detent points, what position corresponds to the thrust limit?",
+      "Answers": [
+        "The upper detent point",
+        "The lower detent point",
+        "The actual throttle lever position"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 3,
+      "QuestionString": "What does the FMGC compute?",
+      "Answers": [
+        "N1 limit",
+        "N1 target",
+        "N1 command"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 4,
+      "QuestionString": "What is the normal engine throttle cruise detent point?",
+      "Answers": [
+        "CL",
+        "FLX/MCT",
+        "TOGA"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 5,
+      "QuestionString": "Throttle control system consists of?",
+      "Answers": [
+        "Throttle control lever, throttle control artificial feel unit, throttle control unit, electrical harness",
+        "Throttle control lever, throttle control artificial feel unit, throttle control unit, electrical harness, EGT thermocouple",
+        "Throttle control lever, throttle control artificial feel unit, electrical harness"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 6,
+      "QuestionString": "In case of overspeed, EEC will control:",
+      "Answers": [
+        "Thrust Control Malfunction (TCM)/Overspeed TM in IFPC",
+        "FMV TM in IFPC",
+        "FDR to stop the fuel in the combustion chamber"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 7,
+      "QuestionString": "In case of TCM (Thrust Control Malfunction) on ground, the fuel shut-off valve will be controlled in:",
+      "Answers": [
+        "Open position",
+        "Closed position",
+        "Partially open position"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 8,
+      "QuestionString": "In case of TCM (Thrust Control Malfunction) in flight, the fuel shut-off valve will be controlled in:",
+      "Answers": [
+        "Open position",
+        "Closed position",
+        "Partially open position"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 9,
+      "QuestionString": "In case of the event of Thrust control malfunction (TCM) on ground:",
+      "Answers": [
+        "There is no protection, the Thrust lever must be moved forward manually",
+        "The torque motor shuts down",
+        "The Engine master switch switches off immediately"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 1,
+      "QuestionString": "What is the N2 speed sensor located on?",
+      "Answers": [
+        "Main Gearbox",
+        "N2",
+        "Angle Gearbox"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 2,
+      "QuestionString": "How many speed sensors on PW1100G?",
+      "Answers": [
+        "1 N1, 1 N2",
+        "2 N1 (one active/one spare), 1 N2",
+        "1 N1, 1 N2, 1 Nfan"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 3,
+      "QuestionString": "Where is the PHMU located?",
+      "Answers": [
+        "Fan Case forward the EEC",
+        "On FWD Avionic Bay",
+        "Inside the EEC"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 4,
+      "QuestionString": "PHMU is monitoring…?",
+      "Answers": [
+        "Oil Debris monitoring, Vibration monitoring, Auxiliary Oil pressure Monitoring",
+        "Oil Debris monitoring, Auxiliary Oil pressure Monitoring",
+        "Oil Debris monitoring, Vibration monitoring"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 5,
+      "QuestionString": "How many EGT thermocouple on PW1100G?",
+      "Answers": [
+        "4",
+        "6",
+        "2"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 6,
+      "QuestionString": "What is the Cold Junction Compensation to compute EGT?",
+      "Answers": [
+        "Main Oil temp Sensor",
+        "T3 temp sensor",
+        "Fuel temp sensor"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 7,
+      "QuestionString": "How many vibration sensors on PW1100G?",
+      "Answers": [
+        "02 - at aft and forward",
+        "01 - at core",
+        "02 - at core and fan case"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 8,
+      "QuestionString": "The engine primary parameters are displayed on?",
+      "Answers": [
+        "The lower ECAM engine page",
+        "The upper ECAM",
+        "Both The lower ECAM engine page and the upper ECAM"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 9,
+      "QuestionString": "The engine page is selected?",
+      "Answers": [
+        "Manually or automatically depending on flight phases",
+        "Manually only",
+        "Automatically only depending on flight phases"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 10,
+      "QuestionString": "The engine “N2 SPEED” parameter is displayed on?",
+      "Answers": [
+        "The Upper ECAM",
+        "The Lower ECAM engine page",
+        "The Lower ECAM engine page or Cruise page"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 11,
+      "QuestionString": "The engine oil quantity parameters are displayed on?",
+      "Answers": [
+        "The Upper ECAM",
+        "The Lower ECAM engine page",
+        "The Lower ECAM engine page or Cruise page"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 12,
+      "QuestionString": "The IGN indication is displayed on?",
+      "Answers": [
+        "The Upper ECAM during engine start",
+        "The Lower ECAM engine page during engine start",
+        "The Lower ECAM engine page or Cruise page"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 13,
+      "QuestionString": "The fuel used indication is reset to Zero:",
+      "Answers": [
+        "Five minutes after engine shut down",
+        "After a new take-off",
+        "At each engine start"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 14,
+      "QuestionString": "The engine thrust indicated on ECAM via what parameter?",
+      "Answers": [
+        "N1 speed",
+        "N2 speed",
+        "EGT"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 15,
+      "QuestionString": "For PW 1130 Engine, with the Ignition system of the engine is supplied with power as follows:",
+      "Answers": [
+        "115 V from the A/C electrical system",
+        "115 V from PMA",
+        "115 V from PMA or 115 V from the A/C electrical system depending on N2 speed"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 16,
+      "QuestionString": "For PW 1130 Engine, the Ignition system is controlled by:",
+      "Answers": [
+        "EEC",
+        "EIU",
+        "PMA"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 17,
+      "QuestionString": "A fan cowl loss prevention system is installed with:",
+      "Answers": [
+        "Mechanically with a flag only",
+        "Mechanically with a flag and Electrically monitored by proximity switches",
+        "Electrically monitored by proximity switches only"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 18,
+      "QuestionString": "The fan speed (Nf) is used:",
+      "Answers": [
+        "By the EEC to detect decoupling of the fan shaft and by the PHMU to calculate trim balance solutions",
+        "By the EEC to control the thrust",
+        "By the EEC for indication"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 19,
+      "QuestionString": "The engine EGT is sensed and averaged by",
+      "Answers": [
+        "Five thermocouple probes (T5 probes)",
+        "Four thermocouple probes (T5 probes)",
+        "Six thermocouple probes (T5 probes)"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 20,
+      "QuestionString": "EEC and PHMU are cooled by:",
+      "Answers": [
+        "Natural Convection",
+        "Individual Air Tube",
+        "Air Conditioning"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 21,
+      "QuestionString": "Sensor T3 transmits signal:",
+      "Answers": [
+        "Of temperature from 3rd stage of HPC",
+        "Of temperature from last stage of HPC",
+        "Of temperature from 3rd stage of LPT"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 22,
+      "QuestionString": "The PHMU (Prognostics and Health Management Unit) communicates with EEC via:",
+      "Answers": [
+        "ARINC 429 data bus",
+        "CAN (Control Area Network) data bus",
+        "Ethernet bus"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 23,
+      "QuestionString": "The N1 & N2 speed sensors send signals direct to",
+      "Answers": [
+        "The EEC",
+        "The PHMU",
+        "The PHMU & EEC"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 24,
+      "QuestionString": "If the signal from one vibration sensor (either forward or aft vibration sensor) is lost during engine operation, the display for the affected sensor will be presented in",
+      "Answers": [
+        "Degraded mode",
+        "Normal mode",
+        "Cross amber"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 25,
+      "QuestionString": "What are indication ENG speed sensors on the ECAM?",
+      "Answers": [
+        "Nf & N2",
+        "N1 & N2",
+        "N1, N2 & Nf"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 26,
+      "QuestionString": "What are purposes of Prognostics and Health Management Unit (PHMU)?",
+      "Answers": [
+        "Monitor and process levels for engine oil debris and rotor vibration",
+        "Respond to requests from avionics system that are received through EEC",
+        "All of above"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 27,
+      "QuestionString": "Which sensor is used by the EEC to measure compressor discharge temperature for total temperature calculation?",
+      "Answers": [
+        "T2 sensor",
+        "T2.5 sensor",
+        "T3 sensor"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 1,
+      "QuestionString": "For PW 1130 Engine, When slats are extended, can you fully open reverser cowls?",
+      "Answers": [
+        "Yes",
+        "No, you must not open the reverser cowl when the slats are extended",
+        "Yes, if open by hand"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 2,
+      "QuestionString": "Where is HCU Inhibit Lever located in?",
+      "Answers": [
+        "On HCU",
+        "On RH fan case",
+        "On LH Fan case"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 3,
+      "QuestionString": "How many Hold Open Rod on each Reverser half?",
+      "Answers": [
+        "1",
+        "2",
+        "3"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 4,
+      "QuestionString": "How many blocker doors on each reverser half?",
+      "Answers": [
+        "5",
+        "6",
+        "4"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 5,
+      "QuestionString": "How many latches are used to fully close reversers?",
+      "Answers": [
+        "7",
+        "5",
+        "6"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 6,
+      "QuestionString": "How many locking actuators installed in 1 engine?",
+      "Answers": [
+        "1 on LH Reverser only",
+        "2",
+        "1 on RH Reverser only"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 7,
+      "QuestionString": "How many locking feedback actuators installed in 1 engine?",
+      "Answers": [
+        "1 on RH side only",
+        "2",
+        "1 on LH side only"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 8,
+      "QuestionString": "Two Translating sleeves of engine are synchronized by:",
+      "Answers": [
+        "Flexible shafts",
+        "Latching system",
+        "They are not synchronized at all"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 9,
+      "QuestionString": "The Tertiary Lock system is controlled by:",
+      "Answers": [
+        "EEC",
+        "EIU",
+        "SECs"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 10,
+      "QuestionString": "For maintenance, the reversers can be deployed and stowed manually on the ground by:",
+      "Answers": [
+        "Using the Manual Drive Units (MDU) located on the lower actuators",
+        "The test initiated on MCDU",
+        "Using the Manual Drive Units (MDU) located on the upper actuators"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 11,
+      "QuestionString": "Deactivation of the Hydraulic Control Unit (HCU) is provided by:",
+      "Answers": [
+        "An inhibit lever and inhibit pin",
+        "Inhibit pin",
+        "An inhibit handle to provide to lock out the DCV (Directional Control Valve)"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 12,
+      "QuestionString": "Two Translating sleeves of engine are synchronized by:",
+      "Answers": [
+        "Flexible shafts",
+        "Latching system",
+        "They are not synchronized at all"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 13,
+      "QuestionString": "For de-activation thrust reverser Hydraulic Control Unit (HCU), we need to",
+      "Answers": [
+        "Open the oil tank access-door on the left fan cowl-door, or if necessary, open the fan cowl doors",
+        "Open the RH fan cowl door",
+        "Open engine thrust reserve doors"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 14,
+      "QuestionString": "Track Lock Valve (TLV) solenoids are controlled independently by SEC.",
+      "Answers": [
+        "Independently by EECs",
+        "Independently by LGCIUs",
+        "Independently by SEC"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 1,
+      "QuestionString": "Which computer controls JOSV?",
+      "Answers": [
+        "EEC",
+        "EIU",
+        "No computer, only mechanical"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 2,
+      "QuestionString": "How many warning levels can the main oil filter trigger?",
+      "Answers": [
+        "None",
+        "Clogged",
+        "Degraded and Clogged"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 3,
+      "QuestionString": "What is the type of bearing in FDGS?",
+      "Answers": [
+        "Journal Bearing",
+        "Tapered roller bearing",
+        "Oil film Bearing"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 4,
+      "QuestionString": "Which computer controls VORV?",
+      "Answers": [
+        "No computer, only mechanical",
+        "EEC",
+        "EIU"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 5,
+      "QuestionString": "What is the Fail Safe position of VORV?",
+      "Answers": [
+        "Fully Open",
+        "Fully Close",
+        "30% open"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 6,
+      "QuestionString": "What is the new component on the Oil Monitoring system compared to V2500?",
+      "Answers": [
+        "Master Magnetic Chip Detector",
+        "Oil Debris Monitoring",
+        "Last Chance Strainer"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 7,
+      "QuestionString": "For PW 1130 Engine, The Starter Air oil system is:",
+      "Answers": [
+        "Independent",
+        "Using with Engine Oil System",
+        "Using IDG Oil System"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 8,
+      "QuestionString": "How many pumps inside the Journal Bearing?",
+      "Answers": [
+        "0",
+        "1",
+        "2"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 9,
+      "QuestionString": "What is the pressure maintained on the oil tank assembly by Deaerator?",
+      "Answers": [
+        "8 psi",
+        "12 psi",
+        "20 psi"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 10,
+      "QuestionString": "Which side of the engine are most oil system components installed on?",
+      "Answers": [
+        "LH side",
+        "RH side",
+        "Both sides"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 11,
+      "QuestionString": "How many pump stages on LSOP?",
+      "Answers": [
+        "1 supply pump and 6 scavenge pumps",
+        "2 supply pumps and 5 scavenge pumps",
+        "1 supply pump and 5 scavenge pumps"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 12,
+      "QuestionString": "What is the purpose of the Auxiliary Lubrication System?",
+      "Answers": [
+        "To protects the FDGS journal bearings from low oil pressure conditions in windmilling operation",
+        "To provide correct oil flow to the Fan Drive Gear System and the No. 3 Bearing",
+        "To controls oil flow to the No. 3 Bearing damper"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 13,
+      "QuestionString": "What is the function of the Fuel/Oil Heat Exchanger Bypass Valve (FOHEBV)?",
+      "Answers": [
+        "To control and distribute oil flow between two pathways based on fuel temperature",
+        "To direct the oil to journal bearings, ensuring their lubrication at low power setting",
+        "To controls oil flow to the No. 3 Bearing damper"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 14,
+      "QuestionString": "The Oil Debris Monitoring (ODM) sensor",
+      "Answers": [
+        "Sends signals proportional to the size and type of the pollution particles to the HMU",
+        "Sends signals proportional to the size and type of the pollution particles to the EIU",
+        "Sends signals proportional to the size and type of the pollution particles to the PHMU"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 15,
+      "QuestionString": "Which mechanical device keeps a continuous supply of oil to the fan drive journal bearings from the auxiliary oil supply in windmill",
+      "Answers": [
+        "JOSV",
+        "AODV",
+        "VORV"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 16,
+      "QuestionString": "For PW 1130 Engine, the signal from the Oil Debris Monitoring Sensor (ODMS) sends to:",
+      "Answers": [
+        "EEC",
+        "PHMU",
+        "EIU"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 17,
+      "QuestionString": "The Main Oil Temperature (MOT) sensor is a dual channel sensor and is used to",
+      "Answers": [
+        "Measure the temperature of the scavenge oil returning to the tank",
+        "Measure the temperature of the lubrication oil pressure from the tank",
+        "Measure the pressure of the scavenge oil returning to the tank"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 18,
+      "QuestionString": "The No. 4 bearing magnetic chip collector is located",
+      "Answers": [
+        "The lubrication and scavenge oil pump, at the 6 o'clock position",
+        "In the No. 4 bearing oil scavenge line",
+        "Exist in supply oil"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 19,
+      "QuestionString": "Is fuel flow used to cool down IDG oil and engine oil through?",
+      "Answers": [
+        "Integrated Fuel Pump and Control",
+        "Fuel/Oil Heat Exchanger",
+        "Return-To-Tank valve"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 20,
+      "QuestionString": "Which component modulates the flow of oil based on engine power settings?",
+      "Answers": [
+        "VORV/JOSV",
+        "FOHEBV",
+        "IDGOOHE"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 21,
+      "QuestionString": "Oil Debris Monitoring Sensor:",
+      "Answers": [
+        "Detects any type of pollution that crossed its electromagnetic field",
+        "Detects any type of pollution between the main oil scavenge line and oil supply line",
+        "Sends signal corresponding to ferrous and non-ferrous debris to EEC"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 1,
+      "QuestionString": "What is the difference in the starting sequence of PW1100G with V2500?",
+      "Answers": [
+        "Cooling time (auto dry cranking)",
+        "Ignition sequence",
+        "High pressure bleed air"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 2,
+      "QuestionString": "How can we manually open the Start valve?",
+      "Answers": [
+        "By an access door in RH fan cowl",
+        "By an access door in LH Reverser",
+        "By an access door in RH Reverser"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 3,
+      "QuestionString": "Air Starter uses oil for cooling and lubricating from…?",
+      "Answers": [
+        "Starter lubricating system",
+        "Engine Lubricating system",
+        "IDG lubricating system"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 4,
+      "QuestionString": "Start valve controlled by",
+      "Answers": [
+        "Torque motor",
+        "Solenoid",
+        "LVDT"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 5,
+      "QuestionString": "What is the fail-safe position of Starter Valve?",
+      "Answers": [
+        "Fully closed",
+        "Do not have fail-safe position",
+        "Partition open"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 6,
+      "QuestionString": "EGT limit during engine start is:",
+      "Answers": [
+        "635 deg.C",
+        "725 deg.C",
+        "1083.33 deg.C"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 7,
+      "QuestionString": "The normal duty cycle of starter of the engine PW1100G is:",
+      "Answers": [
+        "Three attempts with 35 seconds cooling period between two attempts and total cumulative time is less than 15 min",
+        "Three attempts, each attempt last less than 3 minutes with 35 seconds cooling period between two attempts",
+        "Three attempts, each attempt last less than 5 minutes with 35 seconds cooling period between two attempts"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 8,
+      "QuestionString": "The Air Starter is mounted on",
+      "Answers": [
+        "the right side aft of the MGB",
+        "the left side aft of the MGB",
+        "the fan cowl area"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 9,
+      "QuestionString": "The EEC will abort a start, will not dry motor the engine and will not attempt a restart if",
+      "Answers": [
+        "the starter duty cycle is exceeded",
+        "EEC unable to control fuel flow",
+        "N1 locked rotor"
+      ],
+      "Level": 3,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 10,
+      "QuestionString": "When an automatic start is manually aborted.",
+      "Answers": [
+        "EEC does dry motor the engine",
+        "EEC does not dry motor the engine",
+        "EEC does wet motor the engine"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 11,
+      "QuestionString": "The usual starter duty cycle is 3 starter crank cycles and",
+      "Answers": [
+        "60 seconds cooling period between each start attempt",
+        "35 seconds cooling period between each start attempt",
+        "45 seconds cooling period between each start attempt"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 12,
+      "QuestionString": "“Dual Cooling” mode during engine start:",
+      "Answers": [
+        "ECAM Memo “DUAL COOLING” is displayed",
+        "Select DUAL COOLING P/B to ON, “COOLING” sequence starts after initiating engine start sequence",
+        "Select DUAL COOLING P/B to ON, “COOLING” sequence starts on both engines"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 13,
+      "QuestionString": "How does the starter operate?",
+      "Answers": [
+        "Hydraulically",
+        "Electrically",
+        "Pneumatically"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    }
+]
+}
