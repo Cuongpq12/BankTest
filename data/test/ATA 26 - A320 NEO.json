@@ -4,7 +4,7 @@
       {
         "CatName": "A",
         "QuestionRequired": [
-          16,
+          25,
           0,
           0
         ],
@@ -205,6 +205,106 @@
         ],
         "Level": 2,
         "CorrectAnswer": 1
-      }
+      },
+    {
+      "Index": 1,
+      "QuestionString": "How is the engine fire detector assembly attached:",
+      "Answers": [
+        "On internal side of the C-Ducts",
+        "Directly to the pylon and fancowls",
+        "Directly to the engine components."
+      ],
+      "Level": 1,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 2,
+      "QuestionString": "Detector sensor elements on engine are secured to support tube by:",
+      "Answers": [
+        "Clamps and Teflon liners",
+        "Safety wires, clamps and Teflon liners",
+        "Fasteners and clamps"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 3,
+      "QuestionString": "A fire/overheat detector assembly consists of:",
+      "Answers": [
+        "A support tube, a bracket and 04 fire/overheat detectors",
+        "A support tubes, 04 brackets and a fire/overheat detector",
+        "A support tube, 04 brakets and 04 fire/overheat detectors"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 4,
+      "QuestionString": "How does the Integrity switch of Engine fire/overheat detector operate:",
+      "Answers": [
+        "Respond to temperature inside of detector",
+        "Respond to pressure inside of detector",
+        "Respond to both temperature and pressure inside of detector"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 5,
+      "QuestionString": "The Integrity switch of Engine fire/overheat detector issues a signal to the flight deck if:",
+      "Answers": [
+        "Faulty on detector occurring.",
+        "Overheat or fire condition",
+        "Overheat or fire condition or faulty on detector."
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 6,
+      "QuestionString": "When fire or overheat condition disappears, the alarm switch will:",
+      "Answers": [
+        "Stay close position",
+        "Back to open position by reset CB of FDU",
+        "Back to open position automatically"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 7,
+      "QuestionString": "A fire/overheat detector operates depend on:",
+      "Answers": [
+        "Resistance of element",
+        "Internal gas pressure",
+        "Voltage of detecting circuit"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 8,
+      "QuestionString": "The detector will issue an overheat signal due to:",
+      "Answers": [
+        "Generally increasing pressure by helium gas",
+        "Generally increasing pressure by hydrogen gas",
+        "Quickly increasing pressure by hydrogen gas"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 9,
+      "QuestionString": "The detector will issue a fire signal due to:",
+      "Answers": [
+        "Quickly increasing pressure by helium gas",
+        "Generally increasing pressure by hydrogen gas",
+        "Quickly increasing pressure by hydrogen gas"
+      ],
+      "Level": 2,
+      "CorrectAnswer": 3
+    }
+
     ]
   }
