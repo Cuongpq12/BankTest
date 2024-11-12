@@ -1,0 +1,716 @@
+{
+    "ModuleName": "EWIS",
+    "CatInfos": [
+      {
+        "CatName": "A",
+        "QuestionRequired": [
+          62,
+          0,
+          0
+        ],
+        "TimeLimit": 10
+      },
+      {
+        "CatName": "B1",
+        "QuestionRequired": [
+          8,
+          0,
+          0
+        ],
+        "TimeLimit": 45
+      },
+      {
+        "CatName": "B2",
+        "QuestionRequired": [
+          8,
+          0,
+          0
+        ],
+        "TimeLimit": 45
+      }
+    ],
+    "Questions": [
+    {  
+        "Index": 1,  
+        "QuestionString": "Examples of EWIS are:",  
+        "Answers": [  
+        "Wires, cables, busbars, connectors",  
+        "Fiber optical cables",  
+        "Portable electrical devices"  
+        ],  
+        "Level": 1,  
+        "CorrectAnswer": 1  
+    },  
+    {  
+        "Index": 2,  
+        "QuestionString": "General Inspection is:",  
+        "Answers": [  
+        "Visual examination of an internal or external area, installation or assembly",  
+        "Must be used special tool for inspection.",  
+        "Full examination of a specific component."  
+        ],  
+        "Level": 1,  
+        "CorrectAnswer": 1  
+    },
+    {  
+    "Index": 3,  
+    "QuestionString": "For a direct current, the value indicated on the ammeter is:",  
+    "Answers": [  
+      "Voltage",  
+      "Resistance",  
+      "Current"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 4,  
+    "QuestionString": "What is ESPM?",  
+    "Answers": [  
+      "Electrical Standard Practices Manual",  
+      "Electrical Supplemental Procedure Manual",  
+      "Electrical Supplemental Practices Manual"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 5,  
+    "QuestionString": "Circuit Breaker has auxiliary contact use for purpose:",  
+    "Answers": [  
+      "Monitored",  
+      "Not monitored",  
+      "Back-up"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 6,  
+    "QuestionString": "Route 1M is meaning:",  
+    "Answers": [  
+      "Not safety route",  
+      "Sensitive route",  
+      "EFCS route"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 7,  
+    "QuestionString": "To test crimping tool:",  
+    "Answers": [  
+      "GO-NoGO tool must be used for test",  
+      "NoGO side must go through the crimping tool",  
+      "Tool must be brought to national calibration center for test"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 8,  
+    "QuestionString": "Which tool use for bonding test:",  
+    "Answers": [  
+      "Milliohm meter",  
+      "Megaohm meter",  
+      "Voltmeter"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 9,  
+    "QuestionString": "What is GVI means?",  
+    "Answers": [  
+      "General Variable Interconnection",  
+      "General Visual Inspection",  
+      "Ground Visual Inspection"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 10,  
+    "QuestionString": "Detail Inspection is:",  
+    "Answers": [  
+      "Visual examination of an internal or external area",  
+      "Visual check of the system, powerplant or structure",  
+      "Full examination of a specific component"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 11,  
+    "QuestionString": "Which one following is the main cause for lethality?",  
+    "Answers": [  
+      "Voltage",  
+      "Current",  
+      "Resistance"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 12,  
+    "QuestionString": "When checking circuit breaker, relays, make sure that:",  
+    "Answers": [  
+      "They are correctly installed",  
+      "There is no sign of overheat",  
+      "Both answers are correct"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 13,  
+    "QuestionString": "A voltmeter measures:",  
+    "Answers": [  
+      "The potential difference between two points",  
+      "The potential of one point",  
+      "The resistance difference between two points"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 14,  
+    "QuestionString": "The voltage is measured by connecting the voltmeter:",  
+    "Answers": [  
+      "In sequence to the circuit",  
+      "In parallel to the circuit",  
+      "In parallel or in sequence to the circuit if you like"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 15,  
+    "QuestionString": "Testing the continuity of a circuit requires use of the:",  
+    "Answers": [  
+      "An oscilloscope",  
+      "A multimeter",  
+      "A bond tester"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 16,  
+    "QuestionString": "To test the electrical insulation, use:",  
+    "Answers": [  
+      "Megohm-meters",  
+      "Bond tester",  
+      "Multimeter"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 17,  
+    "QuestionString": "The reason for cutting back properly a wire before crimping is to:",  
+    "Answers": [  
+      "Complies with ARINC specification",  
+      "Keeps as short as possible wire length",  
+      "Ensure that area of contact will not be oxidized"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 18,  
+    "QuestionString": "Color of extract tool:",  
+    "Answers": [  
+      "Red",  
+      "Green",  
+      "White"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3 
+  },
+  {  
+    "Index": 19,  
+    "QuestionString": "Examples of EWIS are:",  
+    "Answers": [  
+      "Wires, cables, busbars, connectors",  
+      "Fiber optical cables",  
+      "Portable electrical devices"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 20,  
+    "QuestionString": "What is GVI means?",  
+    "Answers": [  
+      "General Variable Interconnection",  
+      "General Visual Inspection",  
+      "Ground Visual Inspection"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 21,  
+    "QuestionString": "Detail Inspection is:",  
+    "Answers": [  
+      "Visual examination of an internal or external area",  
+      "Visual check of the system, powerplant or structure",  
+      "Full examination of a specific component"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 22,  
+    "QuestionString": "When checking ground point, make sure that:",  
+    "Answers": [  
+      "The ground equipment tighten to aircraft structure or avionic rack",  
+      "The protective coating is not damaged",  
+      "The ground equipment tighten to aircraft structure or avionic rack, the protective coating is not damaged, and no corrosion"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 23,  
+    "QuestionString": "Repair for wire damage grade 0 is?",  
+    "Answers": [  
+      "No repair required",  
+      "Permanent repair",  
+      "Minor repair"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 24,  
+    "QuestionString": "Which statement is not correct about wire harness?",  
+    "Answers": [  
+      "Cable bend radius are not less than the minimum value necessary",  
+      "Dust and lint do not need to be collect",  
+      "There is no loose harness or incorrectly attached harness"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 25,  
+    "QuestionString": "What is not acceptable when you do connector checking?",  
+    "Answers": [  
+      "Cable tie is missing",  
+      "Make sure there is locking wire",  
+      "There is no loosen connector or backshell"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 26,  
+    "QuestionString": "What is ESPM?",  
+    "Answers": [  
+      "Electrical Standard Practices Manual",  
+      "Electrical Supplemental Procedure Manual",  
+      "Electrical Supplemental Practices Manual"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 27,  
+    "QuestionString": "Which wire size is the smallest wire?",  
+    "Answers": [  
+      "18",  
+      "20",  
+      "22"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 28,  
+    "QuestionString": "About wire/cable identification, what does the first 4 digit (number) mean?",  
+    "Answers": [  
+      "No. of the wire/cable in the circuit",  
+      "No. of the circuit defined by ATA Spec 100",  
+      "No. of the color code"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 29,  
+    "QuestionString": "When checking circuit breaker, relays, make sure that:",  
+    "Answers": [  
+      "They are correctly installed",  
+      "There is no sign of overheat",  
+      "Both answers are correct"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 30,  
+    "QuestionString": "AWM is:",  
+    "Answers": [  
+      "Aircraft Wiring Manual",  
+      "Aircraft Working Manual",  
+      "Aircraft Wiring Menu"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 31,  
+    "QuestionString": "To find a high resistance or open circuit, carry out:",  
+    "Answers": [  
+      "a milli-volt drop test",  
+      "a continuity check",  
+      "a bonding check"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 32,  
+    "QuestionString": "In a front release connector the pin will be:",  
+    "Answers": [  
+      "released from rear and extracted from the front",  
+      "released from the front and extracted from the front",  
+      "released from the front and extracted from the rear"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 33,  
+    "QuestionString": "With a rear release connector, the pin will be:",  
+    "Answers": [  
+      "released from the front and extracted from the rear",  
+      "released from the rear and extracted from the front",  
+      "released from the rear and extracted from the rear"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 34,  
+    "QuestionString": "What following is the result for ESD affect?",  
+    "Answers": [  
+      "Wires are burnt or broken",  
+      "Integrated Circuits are damaged",  
+      "Relays are broken"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 35,  
+    "QuestionString": "The maximum operating temperature for a nickel plated copper or aluminium connector is:",  
+    "Answers": [  
+      "260°C",  
+      "135°C",  
+      "200°C"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 36,  
+    "QuestionString": "Before effecting a crimp, the bare ends of a cable should be:",  
+    "Answers": [  
+      "tightly twisted",  
+      "twisted lightly in the direction of the lay",  
+      "straightened out"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 37,  
+    "QuestionString": "A hole is placed in the lowest point of electrical cable conduit:",  
+    "Answers": [  
+      "to allow for pull-through of the cables",  
+      "to secure the conduit to a piece of aircraft structure",  
+      "to allow for drainage of moisture"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 38,  
+    "QuestionString": "The minimum distance between electrical cable splices is:",  
+    "Answers": [  
+      "3 feet",  
+      "12 inches",  
+      "500 mm"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },
+  {  
+    "Index": 39,  
+    "QuestionString": "When splicing a cable with a soldered joint, the operation is finished when:",  
+    "Answers": [  
+      "the solder has melted",  
+      "the solder sleeve disappears",  
+      "the solder and insulation have formed"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 40,  
+    "QuestionString": "When manufacturing an electrical connector the unused holes are:",  
+    "Answers": [  
+      "filled with connectors",  
+      "filled with connectors and blanked",  
+      "covered with blanks"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 41,  
+    "QuestionString": "Why are copper wires used in electrical systems?",  
+    "Answers": [  
+      "They have high permeability",  
+      "They do not give off a magnetic field",  
+      "They have a low resistance to current"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 42,  
+    "QuestionString": "A white/blue insertion-extraction tool would be used on a cable of what size?",  
+    "Answers": [  
+      "10",  
+      "22",  
+      "16"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 43,  
+    "QuestionString": "What gauge of pin would a blue plastic insert/extract tool be used on?",  
+    "Answers": [  
+      "12 - 10",  
+      "16 - 14",  
+      "22 - 18"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 44,  
+    "QuestionString": "Most electric shocks from tools have been caused by:",  
+    "Answers": [  
+      "the failure of insulation between the current-carrying parts and the metal frames of tools",  
+      "the failure of insulation between the metal frame parts of tools",  
+      "the failure of insulation between the insulation parts and the metal frames of tools"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 45,  
+    "QuestionString": "Which statement is not correct about wire harness?",  
+    "Answers": [  
+      "Cable bend radius are not less than the minimum value necessary",  
+      "Dust and lint do not need to be collected",  
+      "There is no loose harness or incorrectly attached harness"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 46,  
+    "QuestionString": "GFCIs are designed to:",  
+    "Answers": [  
+      "operate after the electricity can affect your heartbeat",  
+      "operate before the electricity can affect your heartbeat",  
+      "operate before the electricity can affect your breathing beat"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 47,  
+    "QuestionString": "GFCI stand for:",  
+    "Answers": [  
+      "Ground Fault Circuit Interrupter",  
+      "Ground Fault Control Immediately",  
+      "Ground Flight Control Interface"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 48,  
+    "QuestionString": "For a direct current, the value indicated on the ammeter is:",  
+    "Answers": [  
+      "Voltage",  
+      "Resistance",  
+      "Current"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 49,  
+    "QuestionString": "For an alternating current, the value indicated on the ammeter is:",  
+    "Answers": [  
+      "the effective current in one second",  
+      "the effective current in one cycle",  
+      "the effective voltage in one cycle"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 50,  
+    "QuestionString": "A voltmeter measures:",  
+    "Answers": [  
+      "The potential difference between two points.",  
+      "The potential of one point",  
+      "The resistance difference between two points"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 51,  
+    "QuestionString": "The voltage is measured by connecting the voltmeter:",  
+    "Answers": [  
+      "In sequence to the circuit",  
+      "In parallel to the circuit",  
+      "In parallel or in sequence to the circuit if you like"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 52,  
+    "QuestionString": "In accordance with Ohm’s law, the value of the resistance is equal to:",  
+    "Answers": [  
+      "the multiplication of the voltage across the resistor and current passing through the resistor",  
+      "the division of the current passing through the resistor and the voltage across the resistor",  
+      "the division of the voltage across the resistor and current passing through the resistor"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 53,  
+    "QuestionString": "An oscilloscope is easily the most useful instrument available for testing circuits because it allows to see electrical signals:",  
+    "Answers": [  
+      "at different points in the circuit",  
+      "by spectrum form",  
+      "by a graph of current against time"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 54,  
+    "QuestionString": "The acronym ARINC means:",  
+    "Answers": [  
+      "Aircraft Rack Inclusion",  
+      "Aircraft Radar Incoming",  
+      "Aeronautical Radio Incorporated"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 55,  
+    "QuestionString": "About the ARINC 429 Specification:",  
+    "Answers": [  
+      "High bit rate and low bit rate messages can be intermixed onthe same bus",  
+      "High bit rate and low bit rate messages cannot be intermixed on the same bus",  
+      "High bit rate and low bit rate messages cannot be intermixed onthe difference bus"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },
+  {  
+    "Index": 56,  
+    "QuestionString": "You want to clean a surface by agent, you do?",  
+    "Answers": [  
+      "Apply firstly agent to small area for test then clean if no serious reactions.",  
+      "Apply agent then clean as usual.",  
+      "Dry the surface in the air."  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 57,  
+    "QuestionString": "About the ARINC 429 Specification:",  
+    "Answers": [  
+      "A message is composed of a 32-bit word.",  
+      "A message is composed of a 16-bit word.",  
+      "A message is composed of a 64-bit word."  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },   
+  {  
+    "Index": 58,  
+    "QuestionString": "ARINC 429 Specification/binary coded decimal (BCD) - the binary coded value of 5 (decimal) is:",  
+    "Answers": [  
+      "11",  
+      "1001",  
+      "101"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer":  3
+  },  
+  {  
+    "Index": 59,  
+    "QuestionString": "MIL-STD-1553 Specifications - The terminal assigned the task of initiating information transfers on the data bus is the definition of:",  
+    "Answers": [  
+      "Bus monitor",  
+      "Bus controller",  
+      "Remote terminal"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 2  
+  },  
+  {  
+    "Index": 60,  
+    "QuestionString": "Color of extract tool?",  
+    "Answers": [  
+      "Blue",  
+      "Yellow",  
+      "White"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 3  
+  },  
+  {  
+    "Index": 61,  
+    "QuestionString": "What is ESD?",  
+    "Answers": [  
+      "Sudden flow of electricity between two electrically charged objects caused by contact, an electrical short, or dielectric breakdown",  
+      "A flow of electricity between two electrically charged objects caused by contact",  
+      "Sudden flow of electricity between two electrically charged objects caused by disconnection"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  },  
+  {  
+    "Index": 62,  
+    "QuestionString": "What is not acceptable when you do connector checking?",  
+    "Answers": [  
+      "Cable tie is missing",  
+      "Make sure there is locking wire",  
+      "There is no loosen connector or backshell"  
+    ],  
+    "Level": 1,  
+    "CorrectAnswer": 1  
+  }  
+    ]
+}
