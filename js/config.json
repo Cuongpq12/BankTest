@@ -1,12 +1,13 @@
 {
     "moduleList"    :   15,
-    "moduleCode"    : ["EWIS","ATA 70 - 80","ATA 26 - A320 NEO","ATA 30 - A320 NEO","ATA 36 - A320 NEO","ATA 71 - A320 NEO","ATA 72 - A320 NEO","ATA 73 - A320 NEO","ATA 74 - A320 NEO","ATA 75 - A320 NEO",
+    "moduleCode"    : ["Fuel","EWIS","ATA 70 - 80","ATA 26 - A320 NEO","ATA 30 - A320 NEO","ATA 36 - A320 NEO","ATA 71 - A320 NEO","ATA 72 - A320 NEO","ATA 73 - A320 NEO","ATA 74 - A320 NEO","ATA 75 - A320 NEO",
     "ATA 76 - A320 NEO","ATA 77 - A320 NEO","ATA 78 - A320 NEO","ATA 79 - A320 NEO","ATA 80 - A320 NEO"],
-    "moduleName"    : ["EWIS","ATA 70 - 80","ATA 26 - A320 NEO","ATA 30 - A320 NEO","ATA 36 - A320 NEO","ATA 71 - A320 NEO","ATA 72 - A320 NEO","ATA 73 - A320 NEO","ATA 74 - A320 NEO","ATA 75 - A320 NEO",
+    "moduleName"    : ["Fuel","EWIS","ATA 70 - 80","ATA 26 - A320 NEO","ATA 30 - A320 NEO","ATA 36 - A320 NEO","ATA 71 - A320 NEO","ATA 72 - A320 NEO","ATA 73 - A320 NEO","ATA 74 - A320 NEO","ATA 75 - A320 NEO",
     "ATA 76 - A320 NEO","ATA 77 - A320 NEO","ATA 78 - A320 NEO","ATA 79 - A320 NEO","ATA 80 - A320 NEO"],
-    "moduleVersions": [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
-    "verifyTest"    : [-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],
-    "subPart"       : [[1],[1],[1],[1],[1],[1],[1],[1],
+    "moduleVersions": [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+    "verifyTest"    : [-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],
+    "subPart"       : [[1],
+    [1],[1],[1],[1],[1],[1],[1],[1],
     [1],[1],[1],[1],
     [1],[1],[1]]
 }
