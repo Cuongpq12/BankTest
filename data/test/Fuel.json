@@ -1,368 +1,456 @@
 {
-    "ModuleName": "Fuel",
-    "CatInfos": [
+  "ModuleName": "Fuel",
+  "CatInfos": [
+    {
+      "CatName": "A",
+      "QuestionRequired": [
+        38,
+        0,
+        0
+      ],
+      "TimeLimit": 10
+    },
+    {
+      "CatName": "B1",
+      "QuestionRequired": [
+        8,
+        0,
+        0
+      ],
+      "TimeLimit": 45
+    },
+    {
+      "CatName": "B2",
+      "QuestionRequired": [
+        8,
+        0,
+        0
+      ],
+      "TimeLimit": 45
+    }
+  ],
+  "Questions": [
       {
-        "CatName": "A",
-        "QuestionRequired": [
-          30,
-          0,
-          0
-        ],
-        "TimeLimit": 10
+          "Index": 1,
+              "QuestionString": "Which components make up the 'fire triangle'?",
+              "Answers": [
+                "Oxygen, Heat, Flames",
+                "Oxygen, Heat, Fuel",
+                "Nitrogen, Heat, Fuel"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 2
       },
       {
-        "CatName": "B1",
-        "QuestionRequired": [
-          8,
-          0,
-          0
-        ],
-        "TimeLimit": 45
-      },
-      {
-        "CatName": "B2",
-        "QuestionRequired": [
-          8,
-          0,
-          0
-        ],
-        "TimeLimit": 45
-      }
-    ],
-    "Questions": [
-        {
-            "Index": 1,
-                "QuestionString": "Which components make up the 'fire triangle'?",
-                "Answers": [
-                  "Oxygen, Heat, Flames",
-                  "Oxygen, Heat, Fuel",
-                  "Nitrogen, Heat, Fuel"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 2
-        },
-        {
-                "Index": 2,
-                "QuestionString": "CDCCL training is one of the outcomes of the investigation carried out after",
-                "Answers": [
-                  "TWA flight no. 800 (B747 in-flight explosion in 1996)",
-                  "Pan Am flight no. 214 (B707 in-flight left wing explosion in 1963)",
-                  "Philippine Airlines flight no. 143 (B737 on-ground center tank explosion in 1990)"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 1
-              },
-              {
-                "Index": 3,
-                "QuestionString": "The acronym 'ALI' means",
-                "Answers": [
-                  "Assembly Line Installation",
-                  "Airworthiness Limitation Items",
-                  "Approved Limited Inspection"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 2
-              },
-              {
-                "Index": 4,
-                "QuestionString": "The highest exposure to flammable fuel vapors is met in",
-                "Answers": [
-                  "Heated wing tanks",
-                  "Non-heated center wing tanks",
-                  "Heated center wing tanks"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 3
-              },
-              {
-                "Index": 5,
-                "QuestionString": "In AMM, a warning in the procedures identifies CDCCL items, you follow",
-                "Answers": [
-                  "By the operator regulations",
-                  "It is recommended",
-                  "It is mandatory"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 3
-              },
-              {
-                "Index": 6,
-                "QuestionString": "CDCCLs (Critical Design Configuration Control Limitation) are",
-                "Answers": [
-                  "Optional and may be changed or deleted without the approval of the applicable regulatory agency",
-                  "Only applicable during a 'C' check",
-                  "Mandatory and cannot be changed or deleted without the approval of the applicable regulatory agency"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 3
-              },
-              {
-                "Index": 7,
-                "QuestionString": "Could a CDCCL be an ALI?",
-                "Answers": [
-                  "No, a CDCCL does not fall within the definition of an ALI",
-                  "Yes, CDCCL and ALI are the same but only issued by different documents",
-                  "Yes, CDCCL and ALI have the same definition"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 1
-              },
-              {
-                "Index": 8,
-                "QuestionString": "Special Federal Aviation Regulation (SFAR No. 88) advises airplane manufacturers to carry out a design review of fuel tank systems to",
-                "Answers": [
-                  "Avoid entry of any ignition source into the fuel tanks",
-                  "Avoid heating the center wing tank",
-                  "Reduce the flammable vapors in the fuel tanks"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 1
-              },
-              {
-                "Index": 9,
-                "QuestionString": "The aims of EASA and the FAA's harmonized approach to fuel tank safety are",
-                "Answers": [
-                  "Flammability Prevention, Ignition Reduction",
-                  "Flammability Reduction, Ignition Prevention",
-                  "Fuel saving, cost-cutting"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 2
-              },
-              {
-                "Index": 10,
-                "QuestionString": "As per FAR §25.981 Fuel Tank Ignition Prevention",
-                "Answers": [
-                  "Dry running of only the emergency fuel pump is allowed",
-                  "Dry running of the fuel pumps should not be allowed",
-                  "Dry running of the fuel pumps is optional"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 2
-              },
-              {
-                "Index": 11,
-                "QuestionString": "Identify three primary phenomena that can result in ignition of fuel vapors in airplane fuel tanks",
-                "Answers": [
-                  "Electrical arcs, friction burns, hot surface reflection",
-                  "Electrical arcs, carpet burns, hot summer days",
-                  "Electrical arcs, friction sparks, hot surface ignition"
-                ],
-                "Level": 1,
-                "CorrectAnswer": 3
-              },
+              "Index": 2,
+              "QuestionString": "CDCCL training is one of the outcomes of the investigation carried out after",
+              "Answers": [
+                "TWA flight no. 800 (B747 in-flight explosion in 1996)",
+                "Pan Am flight no. 214 (B707 in-flight left wing explosion in 1963)",
+                "Philippine Airlines flight no. 143 (B737 on-ground center tank explosion in 1990)"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 1
+            },
             {
-                    "Index": 12,
-                    "QuestionString": "Which is the ignition source that caused the incident of TWA800?",
-                    "Answers": [
-                      "No ignition source was identified",
-                      "Pump dry running",
-                      "Incorrect wire pump installation"
-                    ],
-                    "Level": 1,
-                    "CorrectAnswer": 1
-                  },
-                  {
-                    "Index": 13,
-                    "QuestionString": "The (ISI) 28.00.00144 fuel tanks protection against ignition sources (date 17 Apr 2015) provide the operator with an updated status of the activities undertaken by Airbus consists of:",
-                    "Answers": [
-                      "Status of the fuel and electrical systems design review",
-                      "Detail of the inspection and modification requirements resulting from these activities",
-                      "Fuel tank inspections, electrical component inspection and fuel vapors flammability study carried out in the frame of these activities"
-                    ],
-                    "Level": 1,
-                    "CorrectAnswer": 2
-                  },
-                  {
-                    "Index": 14,
-                    "QuestionString": "In Boeing 787-FTD-57-19004 per the restrictions of CDCCL for structure repairs and alterations (Ref: 28-AWL-88), the only authorized documentation that allows repairs or alterations to the critical design feature is:",
-                    "Answers": [
-                      "The Standard Overhaul Practice Manual (SOPM)",
-                      "The Component Maintenance Manual (CMM)",
-                      "The Airplane Maintenance Manual (AMM)"
-                    ],
-                    "Level": 1,
-                    "CorrectAnswer": 3
-                  },
-                  
+              "Index": 3,
+              "QuestionString": "The acronym 'ALI' means",
+              "Answers": [
+                "Assembly Line Installation",
+                "Airworthiness Limitation Items",
+                "Approved Limited Inspection"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 2
+            },
+            {
+              "Index": 4,
+              "QuestionString": "The highest exposure to flammable fuel vapors is met in",
+              "Answers": [
+                "Heated wing tanks",
+                "Non-heated center wing tanks",
+                "Heated center wing tanks"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 3
+            },
+            {
+              "Index": 5,
+              "QuestionString": "In AMM, a warning in the procedures identifies CDCCL items, you follow",
+              "Answers": [
+                "By the operator regulations",
+                "It is recommended",
+                "It is mandatory"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 3
+            },
+            {
+              "Index": 6,
+              "QuestionString": "CDCCLs (Critical Design Configuration Control Limitation) are",
+              "Answers": [
+                "Optional and may be changed or deleted without the approval of the applicable regulatory agency",
+                "Only applicable during a 'C' check",
+                "Mandatory and cannot be changed or deleted without the approval of the applicable regulatory agency"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 3
+            },
+            {
+              "Index": 7,
+              "QuestionString": "Could a CDCCL be an ALI?",
+              "Answers": [
+                "No, a CDCCL does not fall within the definition of an ALI",
+                "Yes, CDCCL and ALI are the same but only issued by different documents",
+                "Yes, CDCCL and ALI have the same definition"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 1
+            },
+            {
+              "Index": 8,
+              "QuestionString": "Special Federal Aviation Regulation (SFAR No. 88) advises airplane manufacturers to carry out a design review of fuel tank systems to",
+              "Answers": [
+                "Avoid entry of any ignition source into the fuel tanks",
+                "Avoid heating the center wing tank",
+                "Reduce the flammable vapors in the fuel tanks"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 1
+            },
+            {
+              "Index": 9,
+              "QuestionString": "The aims of EASA and the FAA's harmonized approach to fuel tank safety are",
+              "Answers": [
+                "Flammability Prevention, Ignition Reduction",
+                "Flammability Reduction, Ignition Prevention",
+                "Fuel saving, cost-cutting"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 2
+            },
+            {
+              "Index": 10,
+              "QuestionString": "As per FAR §25.981 Fuel Tank Ignition Prevention",
+              "Answers": [
+                "Dry running of only the emergency fuel pump is allowed",
+                "Dry running of the fuel pumps should not be allowed",
+                "Dry running of the fuel pumps is optional"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 2
+            },
+            {
+              "Index": 11,
+              "QuestionString": "Identify three primary phenomena that can result in ignition of fuel vapors in airplane fuel tanks",
+              "Answers": [
+                "Electrical arcs, friction burns, hot surface reflection",
+                "Electrical arcs, carpet burns, hot summer days",
+                "Electrical arcs, friction sparks, hot surface ignition"
+              ],
+              "Level": 1,
+              "CorrectAnswer": 3
+            },
+          {
+                  "Index": 12,
+                  "QuestionString": "Which is the ignition source that caused the incident of TWA800?",
+                  "Answers": [
+                    "No ignition source was identified",
+                    "Pump dry running",
+                    "Incorrect wire pump installation"
+                  ],
+                  "Level": 1,
+                  "CorrectAnswer": 1
+                },
+                {
+                  "Index": 13,
+                  "QuestionString": "The (ISI) 28.00.00144 fuel tanks protection against ignition sources (date 17 Apr 2015) provide the operator with an updated status of the activities undertaken by Airbus consists of:",
+                  "Answers": [
+                    "Status of the fuel and electrical systems design review",
+                    "Detail of the inspection and modification requirements resulting from these activities",
+                    "Fuel tank inspections, electrical component inspection and fuel vapors flammability study carried out in the frame of these activities"
+                  ],
+                  "Level": 1,
+                  "CorrectAnswer": 2
+                },
+                {
+                  "Index": 14,
+                  "QuestionString": "In Boeing 787-FTD-57-19004 per the restrictions of CDCCL for structure repairs and alterations (Ref: 28-AWL-88), the only authorized documentation that allows repairs or alterations to the critical design feature is:",
+                  "Answers": [
+                    "The Standard Overhaul Practice Manual (SOPM)",
+                    "The Component Maintenance Manual (CMM)",
+                    "The Airplane Maintenance Manual (AMM)"
+                  ],
+                  "Level": 1,
+                  "CorrectAnswer": 3
+                },
+  {
+      "Index": 11,
+      "QuestionString": "Identify three primary phenomena that can result in ignition of fuel vapors in airplane fuel tanks",
+      "Answers": [
+        "Electrical arcs, friction burns, hot surface reflection",
+        "Electrical arcs, friction sparks, hot surface ignition",
+        "Electrical arcs, carpet burns, hot summer days"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
     {
-        "Index": 11,
-        "QuestionString": "Identify three primary phenomena that can result in ignition of fuel vapors in airplane fuel tanks",
-        "Answers": [
-          "Electrical arcs, friction burns, hot surface reflection",
-          "Electrical arcs, friction sparks, hot surface ignition",
-          "Electrical arcs, carpet burns, hot summer days"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 2
-      },
-      {
-        "Index": 15,
-        "QuestionString": "The Fuel Tank Inerting System acronym NEADS stands for?",
-        "Answers": [
-          "New Easy Access Doppler System",
-          "N2 Enhanced Aircraft Dehumidity System",
-          "N2 Enriched Air Distribution System"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 3
-      },
-      {
-        "Index": 16,
-        "QuestionString": "SFAR 88 required all airframe manufacturers and supplemental type certificate (STC) issued on turbine-powered transport category airframes after January 1, 1958, that meet the following criteria:",
-        "Answers": [
-          "All aircraft regardless of passenger or payload capacity",
-          "Passenger capacity of 30 or more, and maximum payload capacity of greater than 7500 pounds",
-          "Passenger capacity of 30 or more, or maximum payload capacity of greater than 7500 pounds"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 3
-      },
-      {
-        "Index": 17,
-        "QuestionString": "CDCCL stands for",
-        "Answers": [
-          "Critical Design Computerized Control Limitation",
-          "Critical Design Configuration Control Limitation",
-          "Critical Design Configuration Control Legislation"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 2
-      },
-      
+      "Index": 15,
+      "QuestionString": "The Fuel Tank Inerting System acronym NEADS stands for?",
+      "Answers": [
+        "New Easy Access Doppler System",
+        "N2 Enhanced Aircraft Dehumidity System",
+        "N2 Enriched Air Distribution System"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 3
+    },
     {
-        "Index": 18,
-        "QuestionString": "Common factors in three fuel tank safety incidents were:",
-        "Answers": [
-          "Low ambient temperature, empty CWT, conditioning system running",
-          "High ambient temperature, empty CWT, conditioning system running",
-          "High ambient temperature, full CWT, conditioning system running"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 2
-      },
-      {
-        "Index": 19,
-        "QuestionString": "ASM (Air Separation Module) can provide:",
-        "Answers": [
-          "Depleted in oxygen, rich in nitrogen",
-          "Rich in carbon dioxide, depleted in oxygen",
-          "Free of dust"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 1
-      },
-      {
-        "Index": 20,
-        "QuestionString": "SFAR 88 required all airframe manufacturers and supplemental type certificate (STC) holders to:",
-        "Answers": [
-          "Fit fuel inerting system",
-          "Modify fuel tank probes and wiring",
-          "Conduct a safety review of all fuel system components"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 1
-      },
-      {
-        "Index": 21,
-        "QuestionString": "Which new ATA chapter relates to fuel tank inerting system?",
-        "Answers": [
-          "ATA 47",
-          "ATA 46",
-          "ATA 34"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 1
-      },
-      
+      "Index": 16,
+      "QuestionString": "SFAR 88 required all airframe manufacturers and supplemental type certificate (STC) issued on turbine-powered transport category airframes after January 1, 1958, that meet the following criteria:",
+      "Answers": [
+        "All aircraft regardless of passenger or payload capacity",
+        "Passenger capacity of 30 or more, and maximum payload capacity of greater than 7500 pounds",
+        "Passenger capacity of 30 or more, or maximum payload capacity of greater than 7500 pounds"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 3
+    },
     {
-        "Index": 22,
-        "QuestionString": "Which of the following are included in the maintenance procedures for CDCCLs?",
-        "Answers": [
-          "Ensuring no ignition sources in the fuel tank system",
-          "Regular inspection of electrical wiring and fuel tank components",
-          "Replacement of fuel tank parts without manufacturer approval"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 2
-      },
-      {
-        "Index": 23,
-        "QuestionString": "What is the primary purpose of CDCCLs in fuel tank safety?",
-        "Answers": [
-          "To provide flexibility in fuel system maintenance",
-          "To ensure compliance with airworthiness requirements",
-          "To prevent unauthorized changes to critical design features"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 3
-      },
-      {
-        "Index": 24,
-        "QuestionString": "Which document outlines the limitations for CDCCL items?",
-        "Answers": [
-          "Aircraft Maintenance Manual (AMM)",
-          "Illustrated Parts Catalog (IPC)",
-          "Structural Repair Manual (SRM)"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 1
-      },
-      {
-        "Index": 25,
-        "QuestionString": "Who is responsible for ensuring compliance with CDCCL procedures during maintenance?",
-        "Answers": [
-          "Only the maintenance crew",
-          "Both the operator and maintenance crew",
-          "Only the aircraft manufacturer"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 2
-      },
-      {
-        "Index": 26,
-        "QuestionString": "Which training is required for personnel working with CDCCL items?",
-        "Answers": [
-          "Specific training on CDCCL and fuel tank safety",
-          "General maintenance training",
-          "Safety management systems training"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 1
-      },
-      
+      "Index": 17,
+      "QuestionString": "CDCCL stands for",
+      "Answers": [
+        "Critical Design Computerized Control Limitation",
+        "Critical Design Configuration Control Limitation",
+        "Critical Design Configuration Control Legislation"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+  {
+      "Index": 18,
+      "QuestionString": "Common factors in three fuel tank safety incidents were:",
+      "Answers": [
+        "Low ambient temperature, empty CWT, conditioning system running",
+        "High ambient temperature, empty CWT, conditioning system running",
+        "High ambient temperature, full CWT, conditioning system running"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
     {
-        "Index": 27,
-        "QuestionString": "When can CDCCL limitations be modified?",
-        "Answers": [
-          "When approved by the regulatory agency",
-          "During routine maintenance without approval",
-          "At the discretion of the maintenance crew"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 1
-      },
-      {
-        "Index": 28,
-        "QuestionString": "What must be ensured during any maintenance activity involving CDCCL items?",
-        "Answers": [
-          "No ignition sources are introduced into the fuel tank",
-          "Components are replaced only if they are faulty",
-          "Maintenance is completed as quickly as possible"
-        ],
-        "Level": 1,
-        "CorrectAnswer": 1
-      },
-      {
-        "Index": 29,
-        "QuestionString": "What is the consequence of non-compliance with CDCCL requirements?",
-        "Answers": [
-          "It can lead to significant safety risks, including potential fuel tank explosions.",
-          "It allows for more flexibility in the maintenance process.",
-          "It has no impact on aircraft safety."
-        ],
-        "Level": 1,
-        "CorrectAnswer": 1
-      }
-    ]
+      "Index": 19,
+      "QuestionString": "ASM (Air Separation Module) can provide:",
+      "Answers": [
+        "Depleted in oxygen, rich in nitrogen",
+        "Rich in carbon dioxide, depleted in oxygen",
+        "Free of dust"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 20,
+      "QuestionString": "SFAR 88 required all airframe manufacturers and supplemental type certificate (STC) holders to:",
+      "Answers": [
+        "Fit fuel inerting system",
+        "Modify fuel tank probes and wiring",
+        "Conduct a safety review of all fuel system components"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 21,
+      "QuestionString": "Which new ATA chapter relates to fuel tank inerting system?",
+      "Answers": [
+        "ATA 47",
+        "ATA 46",
+        "ATA 34"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    
+  {
+      "Index": 22,
+      "QuestionString": "Which of the following are included in the maintenance procedures for CDCCLs?",
+      "Answers": [
+        "Ensuring no ignition sources in the fuel tank system",
+        "Regular inspection of electrical wiring and fuel tank components",
+        "Replacement of fuel tank parts without manufacturer approval"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 23,
+      "QuestionString": "What is the primary purpose of CDCCLs in fuel tank safety?",
+      "Answers": [
+        "To provide flexibility in fuel system maintenance",
+        "To ensure compliance with airworthiness requirements",
+        "To prevent unauthorized changes to critical design features"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 3
+    },
+    {
+      "Index": 24,
+      "QuestionString": "Which document outlines the limitations for CDCCL items?",
+      "Answers": [
+        "Aircraft Maintenance Manual (AMM)",
+        "Illustrated Parts Catalog (IPC)",
+        "Structural Repair Manual (SRM)"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 25,
+      "QuestionString": "Who is responsible for ensuring compliance with CDCCL procedures during maintenance?",
+      "Answers": [
+        "Only the maintenance crew",
+        "Both the operator and maintenance crew",
+        "Only the aircraft manufacturer"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 2
+    },
+    {
+      "Index": 26,
+      "QuestionString": "Which training is required for personnel working with CDCCL items?",
+      "Answers": [
+        "Specific training on CDCCL and fuel tank safety",
+        "General maintenance training",
+        "Safety management systems training"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    
+  {
+      "Index": 27,
+      "QuestionString": "When can CDCCL limitations be modified?",
+      "Answers": [
+        "When approved by the regulatory agency",
+        "During routine maintenance without approval",
+        "At the discretion of the maintenance crew"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 28,
+      "QuestionString": "What must be ensured during any maintenance activity involving CDCCL items?",
+      "Answers": [
+        "No ignition sources are introduced into the fuel tank",
+        "Components are replaced only if they are faulty",
+        "Maintenance is completed as quickly as possible"
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    {
+      "Index": 29,
+      "QuestionString": "What is the consequence of non-compliance with CDCCL requirements?",
+      "Answers": [
+        "It can lead to significant safety risks, including potential fuel tank explosions.",
+        "It allows for more flexibility in the maintenance process.",
+        "It has no impact on aircraft safety."
+      ],
+      "Level": 1,
+      "CorrectAnswer": 1
+    },
+    
+  {
+    "Index": 1,
+    "QuestionString": "The acronym 'ALI' means:",
+    "Answers": [
+      "Airworthiness limitation items",
+      "Approved limited inspections",
+      "Assembly line installation"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 2,
+    "QuestionString": "For increasing fuel tank safety, EASA has implemented changes to:",
+    "Answers": [
+      "Part-M, 145 and 66",
+      "Part 21",
+      "EASA 25"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 3,
+    "QuestionString": "MSG-3 (Maintenance Steering Group) is:",
+    "Answers": [
+      "A group that supports the development of the maintenance tasks",
+      "A method to develop maintenance tasks and intervals",
+      "A document that provides maintenance tasks"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 2
+  },
+  {
+    "Index": 4,
+    "QuestionString": "For FTS, maintenance staff must have:",
+    "Answers": [
+      "Knowledge level 2 and continuation training",
+      "Knowledge level 2 but without continuation training",
+      "Knowledge level 1 and continuation training"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 5,
+    "QuestionString": "CDCCL is:",
+    "Answers": [
+      "A feature of the fuel system design",
+      "Identified in the airworthiness limitation section of the Instructions for Continuing Airworthiness as inspection items",
+      "Identified in the airworthiness limitation section of the Instructions for Continuing Airworthiness as inspection items"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 6,
+    "QuestionString": "The fire triangle and explosion are:",
+    "Answers": [
+      "Oxygen, Fuel, and an Ignition source",
+      "Oxygen, Fuel and wiring",
+      "Both A and B"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 7,
+    "QuestionString": "The FAA identified the oxygen concentration limit to protection against fuel tank ignition for commercial aircraft at sea level as:",
+    "Answers": [
+      "12%",
+      "9%",
+      "10%"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 1
+  },
+  {
+    "Index": 8,
+    "QuestionString": "Air separation module of the Onboard inert gas system makes air rich in Nitrogen by:",
+    "Answers": [
+      "Separating out Oxygen",
+      "Separating Water and Carbon dioxide",
+      "Both A and B"
+    ],
+    "Level": 1,
+    "CorrectAnswer": 3
   }
+
+  ]
+}
